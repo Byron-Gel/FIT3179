@@ -1,4 +1,4 @@
-City,Average Salary,Number of jobs,Latitude,Longitude
+city,avg_comp,num_jobs,latitude,longitude
 Cambridge,209000,2,42.3652,-71.1050
 Redwood City,231823.5294,459,37.4828,-122.2361
 San Francisco,285613.4324,6797,37.7749,-122.4194
@@ -604,7 +604,7 @@ Hiawatha,205000,1,42.0444,-91.6811
 New Braunfels,175000,1,29.7000,-98.1167
 Clifton,106000,2,40.8654,-74.1610
 Burlingame,298500,2,37.5842,-122.3663
-La Cañada Flintridge,122000,2,34.1951,-118.1982
+La CaÃ±ada Flintridge,122000,2,34.1951,-118.1982
 Thornton,320000,1,39.9031,-104.9544
 Rogers,155000,1,36.3294,-94.1414
 Somerville,324000,1,42.3875,-71.1000
