@@ -95,8 +95,8 @@
             },
             "tooltip": [
                 {"field": "company", "type": "nominal", "title": "Company"},
-                {"field": "avg_salary", "type": "quantitative", "format": ",", "title": "Average Compensation"},
-                {"field": "avg_years_exp", "type": "quantitative", "format": ",",  "title": "Average Years of Experience"},
+                {"field": "avg_salary", "type": "quantitative", "format": ".0f", "title": "Average Compensation"},
+                {"field": "avg_years_exp", "type": "quantitative", "format": ".1f",  "title": "Average Years of Experience"},
                 {"field": "num_Jobs", "type": "quantitative", "title": "Number of Jobs"}      
             ]
         }
@@ -123,8 +123,8 @@
             },
         "tooltip": [
             {"field": "company", "type": "nominal", "title": "Company"},
-            {"field": "avg_salary", "type": "quantitative", "format": ",", "title": "Average Compensation"},
-            {"field": "avg_years_exp", "type": "quantitative", "format": ",",  "title": "Average Years of Experience"},
+            {"field": "avg_salary", "type": "quantitative", "format": ".0f", "title": "Average Compensation"},
+            {"field": "avg_years_exp", "type": "quantitative", "format": ".1f",  "title": "Average Years of Experience"},
             {"field": "num_Jobs", "type": "quantitative", "title": "Number of Jobs"}      
         ]
         }
