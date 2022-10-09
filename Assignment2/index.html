@@ -1,62 +1,89 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+
 </head>
+
 <body>
-  <div id="vis"/>
-  <script>
-    const spec = {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 1200,
-    "height": 600,
-    "title": "IT/Engineering Average Annual Compensation (2017-2021)",
-    "projection": {"type": "equalEarth"},
-    "layer": [
-        {
-        "data": {
-            "url": "https://raw.githubusercontent.com/Byron-Gel/FIT3179/main/ne_110m_admin_0_countries.topojson",
-            "format": {"type": "topojson", "feature": "states"}
-            },
-            "projection": {
-                "type": "albersUsa"
-              },
-        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
-        
-        },
-        
-        {
-            "data": {"url": "https://raw.githubusercontent.com/Byron-Gel/FIT3179/main/US_individual_cities_data.csv"},
-            "mark": {"type": "circle", "tooltip": {"content": "data"}},
-            "projection": {
-                "type": "albersUsa"
-              },
-            "encoding": {
-                "longitude": {"field": "longitude", "type": "quantitative"},
-                "latitude": {"field": "latitude", "type": "quantitative"},
-                "size": {
-                    "field": "num_jobs",
-                    "type": "quantitative",
-                    "title": "Number of Jobs",
-                    "scale": {"domain": [1, 1000]}
-                },
-                    "color": {
-                    "field": "avg_comp",
-                    "type": "quantitative",
-                    "title": "Average Total Compensation",
-                    "scale": {"scheme": "reds"}
-                }
-                
 
-            }
+  <div class="page">
 
-        }
-    ]
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h1>Homework Week 10</h1>
+      </div>
+    </div>
+    <!-- end pure grid group -->
 
-};
-    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-3">
+        <div class="description description-left">
+          <h2>Average Compensation at Different Companies</h2>
+          <p>The bubble plot to the right shows the average compebsation of different companies in the US. The data has
+            been taking from the website Levelsfyi which use anonymous submissions (therefore may not be entirely accurate)
+            FAANG companies are Facebook, Apple, Amazon, Netflix and Google. HFT's are High frequency Trading companies,
+            Big Tech companies are considered companies with over 300 employees and over 175k compensation. The best
+            performing companies are located on the top left (high pay with low experience)
+          </p>
+        </div>
+      </div>
+      <div class="pure-u-1-3">
+        <div id="vis1" class="vis-container"></div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-3">
+        <div class="description description-left">
+          <h2>Average Compensation at Different Companies</h2>
+          <p> The map to the right shows the average compensation for different locations in the US. As seen from the map
+            the san-fransisco bay area, seattle, new york and LA have a high density of high paying jobs. The data has been 
+            taking from the website Levelsfyi which use anonymous submissions (therefore may not be entirely accurate)
+          </p>
+        </div>
+      </div>
+      <div class="pure-u-1-3">
+        <div id="vis2" class="vis-container"></div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    
+
+
+  </div> <!-- end page -->
+
+  <script type="text/javascript">
+    var specVis1 = "./js/bubble_chart.vg";
+    var specVis2 = "./js/salary_data.vg";
+
+    vegaEmbed('#vis1', specVis1, { "actions": false });
+
+    vegaEmbed('#vis2', specVis2, { "actions": false });
   </script>
 </body>
+
 </html>
