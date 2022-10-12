@@ -1,0 +1,55 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "height": 400,
+    "description": "Average Cmpensation at Different Career Stages",
+    "data": {"url": "https://raw.githubusercontent.com/Byron-Gel/FIT3179/main/Assignment2/data/line_chart_data.csv"},
+    "encoding": {
+        "x": {"field": "Category", "sort": ["Grad", "Early", "Mid", "Late"], "title": "Career Stage", "axis": {"labelAngle": 0}},
+        "y": {"field": "Compensation", "type": "quantitative", "title": "Compensation"}
+    },
+    "layer": [
+      {
+        "mark": {"type": "line", "interpolate": "natural"},
+        "encoding": {
+          "color": {"field": "company", "title": "Company"} 
+        }
+      },
+      {
+        "mark": {"type": "point", "opacity": 1, "filled": true},
+        "encoding": {
+            "x": {"field": "Category", "sort": ["Grad", "Early", "Mid", "Late"], "title": "Career Stage", "axis": {"labelAngle": 0}},
+            "y": {"field": "Compensation", "type": "quantitative", "title": "Compensation"},
+            "color": {"field": "company", "title": "Company"},
+            "tooltip": [
+              {"field": "company", "type": "nominal", "title": "Company"},
+              {"field": "Category", "type": "nominal", "title": "Career Stage"},
+              {"field": "Compensation", "type": "quantitative", "format": ".0f", "title": "Average Compensation"} ]}
+      },
+      {
+          "mark": {
+          "type": "text",
+          "align": "left",
+          "baseline": "middle",
+          "dx": 5,
+          "dy": 1,
+          "fontSize": 8,
+          "fontStyle": "italic"
+          },
+          "encoding": {
+            "x": {"field": "Category", "sort": ["Grad", "Early", "Mid", "Late"]},
+            "y": {"field": "Compensation", "type": "quantitative", "title": "Compensation"},
+            "text": {"field": "company", "type": "nominal"},
+            "color": {"value": "black"},
+          "opacity": {
+              "condition": {
+                  "test": "(datum['company'] == 'Google' || datum['company'] == 'Amazon' || datum['company'] == 'Apple' || datum['company'] == 'Facebook' || datum['company'] == 'Netflix' || datum['company'] == 'Average' || datum['company'] == 'Snap') && datum['Category'] == 'Late (10+ years)'",
+                  "value": 1
+              },
+              "value": 0
+              }
+          }
+      }
+    ],
+    "config": {"view": {"stroke": null}}
+  }

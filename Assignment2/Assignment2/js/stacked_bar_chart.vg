@@ -1,0 +1,28 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 400,
+    "height": 400,
+    "data": {"url": "https://raw.githubusercontent.com/Byron-Gel/FIT3179/main/Assignment2/data/position_comp.csv"},
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "Company",
+        "type": "nominal",
+        "title": "Company", 
+        "axis": {"labelAngle": 0}
+      },
+      "y": {
+        "field": "Compensation",
+        "type": "quantitative"
+      },
+      "color": {
+        "field": "Title",
+        "type": "nominal",
+        "scale": {
+          "domain": ["Business Analyst", "Data Scientist", "Hardware Engineer", "Human Resources", "Marketing", "Mechanical Engineer", "Product Designer", "Product Manager", "Recruiter", "Software Engineer", "Software Engineering Manager", "Solution Architect", "Technical Program Manager"]
+        },
+        "title": "Job Type"
+      }
+    }
+  }
+  

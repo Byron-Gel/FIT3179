@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+
+</head>
+
+<body>
+
+  <div class="page">
+
+    <!-- pure grid group -->
+
+      <div class="pure-u-1-1">
+        <h1>Comparison of STEM Jobs</h1>
+        <p> This visualisation compares the total compensation of different STEM related jobs in the US. The data is sourced from "Levelsfyi.com" 
+          using anonymous submissions from 2017-2021 therefore some data may be outdated and non-reperesentitive of the current market. The compensation
+          from these companies is a combination of base salary, stock per year and their yearly bonus. The number of submissions is a good indicator of the 
+          total abundance of jobs within the area/company but is not perfect.  With that being
+          said, the visualisation may help inform current and future STEM graduats to aid them making informed and educated decisions in their career path.
+        </p>
+      </div>
+
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h3>Average Compensation in Different Cities</h3>
+          <p> The map below shows the total average compensation in different cities within the US aswell as the number of submissions. As seen in the map the 
+            San Francisco Bay area has a highest density of high paying jobs indicated by the high concentration of large and circles in the northern part of 
+            California. Despite the high demand for STEM related positions in the San Fransisco Bay area is high, the job market is competitive and the housing/
+            cost of living is one of the expensive in the world. Good alternitive places include Seattle with a similar amount of submissions but with slightly 
+            less compensation on average aswell as Austin and Dallas in Texas. Places to avoid would be Los Angeles with a low amount of submissions and New York
+            with a low average compensation relative to rent/cost of living.
+          </p>
+      </div>
+    </div>
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div id="vis2" class="vis-container"></div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <h3>Average Compensation at Different Companies</h3>
+          <p>The bubble plot to the right shows the average compensation of different companies in the US. The companies are split into four categories; FAANG companies
+            include Facebook, Apple, Amazon, Netflix and Google, HFT companies are high frequency trading companies which are commonly thought of offering very lucrative
+            contracts, Big Tech companies are defined as having more than 300 employees and and average compensation greater than 175k (not including FAANG companies). 
+            All other companies have been grouped together in other. The top performing companies are located in the upper left 
+            corner of the plot as those companies offer higher average compensation for the least amount of experience. Larger circles are more likely to offer more
+            accurate results due to the large sample size and less likely to be effected by outliers. As seen from the plot are Snap (owned by Google) and Netflix 
+            which are both FAANG (or owned by a FAANG) but have a relatively small sample size compared to the rest of the FAANG companies which may result in skewed results.
+            Comparing the different categories, HFT's and FAANG companies performed relatively similar with five HFT's and 3 FAANG comanies paying more than 300k with FAANG 
+            companies often hiring magnitudes of more people. The worst performing companies are companies in the Other category with majority of them paying less than 200k.
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="vis1" class="vis-container"></div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <h3>FAANG Compensation's in Different Positions</h3>
+          <p> The FAANG companies are shown to the right with the average compensation of different positions. Note that Netflix has been replaced by Microsoft as Microsoft
+            has many more submissions and is more likely to have data more closely alligning to the companies current standards. Facebook and Google are outpaying most of
+            the other companies in every position espiecally in software engineering manager, product manager and hardware engineering roles. Softwware engineering roles and
+            data scientist roles are relatively similar within the FAANG companies all performing much better than the average with the exception with microsoft.
+          </p>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="vis3" class="vis-container"></div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+    <!-- pure grid group -->
+    <div class="pure-g">
+      <div class="pure-u-1-2">
+        <div class="description description-left">
+          <h2>Average Compensation at Different Companies</h2>
+          <p>The plot to the right compares different companies in terms of career growth. The plot is split into four different categories, Graduate (0-1 years of experience),
+            Early Career (2-5 years), Middle Career (5-10) and Late Career (10+). Only companies with 100+ submissions are shown but the average taken from all companies from 
+            the dataset. the best performing companies for graduate companies are Netflix, AirBnB and Lyft. The best performing
+            companies in terms of career growth are Snap, Netflix and Facebook with Snap resulting in the most growth by a far margin. THe worst performing graduate positions 
+            also turn out to have the worst growth with both Deloitte and Accenture platueing well below the average.
+          </p>
+        </div>
+      </div>
+      <div class="pure-u-1-2">
+        <div id="vis4" class="vis-container"></div>
+      </div>
+    </div>
+    <!-- end pure grid group -->
+
+
+
+    
+
+
+  </div> <!-- end page -->
+
+  <script type="text/javascript">
+    var specVis1 = "./js/bubble_chart.vg";
+    var specVis2 = "./js/salary_data.vg";
+    var specVis3 = "./js/stacked_bar_chart.vg";
+    var specVis4 = "./js/line_chart.vg";
+
+    vegaEmbed('#vis1', specVis1, { "actions": false });
+    vegaEmbed('#vis2', specVis2, { "actions": false });
+    vegaEmbed('#vis3', specVis3, { "actions": false });
+    vegaEmbed('#vis4', specVis4, { "actions": false });
+  </script>
+</body>
+
+</html>
