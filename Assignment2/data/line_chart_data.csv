@@ -91,10 +91,6 @@ eBay,Grad,148840
 eBay,Early,184773.5849
 eBay,Mid,230238.806
 eBay,Late,303581.9672
-Wayfair,Grad,111954.5455
-Wayfair,Early,155484.375
-Wayfair,Mid,221975.6098
-Wayfair,Late,337481.4815
 Deloitte,Grad,84040
 Deloitte,Early,110306.1224
 Deloitte,Mid,153047.2441
@@ -107,14 +103,6 @@ Adobe,Grad,185520
 Adobe,Early,207418.1818
 Adobe,Mid,239884.8921
 Adobe,Late,304192.3077
-Walmart Labs,Grad,130387.0968
-Walmart Labs,Early,195444.4444
-Walmart Labs,Mid,243276.4228
-Walmart Labs,Late,303309.7345
-Expedia,Grad,135645.8333
-Expedia,Early,156588.2353
-Expedia,Mid,182295.9184
-Expedia,Late,233340.6593
 Accenture,Grad,83000
 Accenture,Early,119761.3636
 Accenture,Mid,163362.6374
@@ -127,22 +115,10 @@ Dropbox,Grad,188705.8824
 Dropbox,Early,264584.4156
 Dropbox,Mid,338579.8319
 Dropbox,Late,438505.7471
-Workday,Grad,139142.8571
-Workday,Early,182594.0594
-Workday,Mid,249903.6145
-Workday,Late,298314.2857
 Airbnb,Grad,235952.381
 Airbnb,Early,307942.5287
 Airbnb,Mid,386902.6549
 Airbnb,Late,484178.5714
-sap,Grad,117571.4286
-sap,Early,134545.4545
-sap,Mid,161245.614
-sap,Late,236333.3333
-Visa,Grad,109315.7895
-Visa,Early,140250
-Visa,Mid,169456.1404
-Visa,Late,227370.3704
 Dell Technologies,Grad,105157.8947
 Dell Technologies,Early,141146.3415
 Dell Technologies,Mid,164671.875
@@ -151,11 +127,7 @@ Snap,Grad,202766.6667
 Snap,Early,334694.4444
 Snap,Mid,466615.3846
 Snap,Late,713189.1892
-Yahoo,Grad,158269.2308
-Yahoo,Early,184920.6349
-Yahoo,Mid,227114.7541
-Yahoo,Late,313218.75
-Tesla,Grad,165375
-Tesla,Early,171088.6076
-Tesla,Mid,234048.3871
-Tesla,Late,301161.2903
+Average,Grad,141580.1
+Average,Early,184232.1
+Average,Mid,233008.2
+Average,Late,298325.5
