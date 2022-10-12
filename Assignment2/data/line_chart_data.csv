@@ -1,133 +1,133 @@
 company,Category,Compensation
-Amazon,Grad,159304.6956
-Amazon,Early,200537.9196
-Amazon,Mid,243235.2475
-Amazon,Late,328993.3036
-Microsoft,Grad,164352.8278
-Microsoft,Early,181437.9816
-Microsoft,Mid,215511.1752
-Microsoft,Late,292788.9814
-Google,Grad,182786.0616
-Google,Early,244512.1083
-Google,Mid,305758.5207
-Google,Late,421316.4319
-Facebook,Grad,193573.3496
-Facebook,Early,280416.953
-Facebook,Mid,373834.065
-Facebook,Late,512158.831
-Apple,Grad,180963.6752
-Apple,Early,243554.5171
-Apple,Mid,285602.7228
-Apple,Late,362962.3568
-Oracle,Grad,171868.2171
-Oracle,Early,191767.3469
-Oracle,Mid,241863.806
-Oracle,Late,280426.9406
-Salesforce,Grad,177394.2308
-Salesforce,Early,213788.2883
-Salesforce,Mid,258024.2857
-Salesforce,Late,344410.1942
-Intel,Grad,134140
-Intel,Early,140419.8473
-Intel,Mid,173492.4925
-Intel,Late,246771.261
-Cisco,Grad,127269.8413
-Cisco,Early,164818.1818
-Cisco,Mid,200688.9764
-Cisco,Late,273629.9694
-Uber,Grad,177602.7397
-Uber,Early,257430.5556
-Uber,Mid,352296.875
-Uber,Late,473455.3991
-Capital One,Grad,109606.0606
-Capital One,Early,132078.4884
-Capital One,Mid,161551.3514
-Capital One,Late,225637.5839
-IBM,Grad,107782.6087
-IBM,Early,124553.1136
-IBM,Mid,149608.6957
-IBM,Late,204171.4286
-LinkedIn,Grad,202573.0337
-LinkedIn,Early,265581.6733
-LinkedIn,Mid,342367.893
-LinkedIn,Late,466938.5475
-VMware,Grad,154880
-VMware,Early,189974.359
-VMware,Mid,221951.5419
-VMware,Late,301358.7444
-Qualcomm,Grad,137971.831
-Qualcomm,Early,148692.8105
-Qualcomm,Mid,194580.6452
-Qualcomm,Late,269057.1429
-Bloomberg,Grad,167598.0769
-Bloomberg,Early,204498.6842
-Bloomberg,Mid,247218.75
-Bloomberg,Late,303268.8172
-Intuit,Grad,141086.2069
-Intuit,Early,193546.0993
-Intuit,Mid,242482.2695
-Intuit,Late,302806.2016
-JPMorgan Chase,Grad,95653.06122
-JPMorgan Chase,Early,128615.3846
-JPMorgan Chase,Mid,153470.5882
-JPMorgan Chase,Late,212127.451
-PayPal,Grad,138324.3243
-PayPal,Early,180257.3529
-PayPal,Mid,242478.8732
-PayPal,Late,318899.1597
-Twitter,Grad,189795.4545
-Twitter,Early,271725.3521
-Twitter,Mid,356487.3418
-Twitter,Late,436536.0825
-Nvidia,Grad,180157.8947
-Nvidia,Early,208743.8017
-Nvidia,Mid,275351.3514
-Nvidia,Late,352050.5051
-Goldman Sachs,Grad,126950
-Goldman Sachs,Early,158821.8391
-Goldman Sachs,Mid,212806.8182
-Goldman Sachs,Late,306516.129
-eBay,Grad,148840
-eBay,Early,184773.5849
-eBay,Mid,230238.806
-eBay,Late,303581.9672
-Deloitte,Grad,84040
-Deloitte,Early,110306.1224
-Deloitte,Mid,153047.2441
-Deloitte,Late,192236.8421
-Lyft,Grad,230888.8889
-Lyft,Early,315685.1852
-Lyft,Mid,385098.1595
-Lyft,Late,475084.3373
-Adobe,Grad,185520
-Adobe,Early,207418.1818
-Adobe,Mid,239884.8921
-Adobe,Late,304192.3077
-Accenture,Grad,83000
-Accenture,Early,119761.3636
-Accenture,Mid,163362.6374
-Accenture,Late,178891.5663
-Netflix,Grad,356000
-Netflix,Early,409500
-Netflix,Mid,461405.4054
-Netflix,Late,522795.6204
-Dropbox,Grad,188705.8824
-Dropbox,Early,264584.4156
-Dropbox,Mid,338579.8319
-Dropbox,Late,438505.7471
-Airbnb,Grad,235952.381
-Airbnb,Early,307942.5287
-Airbnb,Mid,386902.6549
-Airbnb,Late,484178.5714
-Dell Technologies,Grad,105157.8947
-Dell Technologies,Early,141146.3415
-Dell Technologies,Mid,164671.875
-Dell Technologies,Late,219947.9167
-Snap,Grad,202766.6667
-Snap,Early,334694.4444
-Snap,Mid,466615.3846
-Snap,Late,713189.1892
-Average,Grad,141580.1
-Average,Early,184232.1
-Average,Mid,233008.2
-Average,Late,298325.5
+Amazon,Grad (0-1 years),159304.6956
+Amazon,Early (2-5 years),200537.9196
+Amazon,Mid (5-10 years),243235.2475
+Amazon,Late (10+ years),328993.3036
+Microsoft,Grad (0-1 years),164352.8278
+Microsoft,Early (2-5 years),181437.9816
+Microsoft,Mid (5-10 years),215511.1752
+Microsoft,Late (10+ years),292788.9814
+Google,Grad (0-1 years),182786.0616
+Google,Early (2-5 years),244512.1083
+Google,Mid (5-10 years),305758.5207
+Google,Late (10+ years),421316.4319
+Facebook,Grad (0-1 years),193573.3496
+Facebook,Early (2-5 years),280416.953
+Facebook,Mid (5-10 years),373834.065
+Facebook,Late (10+ years),512158.831
+Apple,Grad (0-1 years),180963.6752
+Apple,Early (2-5 years),243554.5171
+Apple,Mid (5-10 years),285602.7228
+Apple,Late (10+ years),362962.3568
+Oracle,Grad (0-1 years),171868.2171
+Oracle,Early (2-5 years),191767.3469
+Oracle,Mid (5-10 years),241863.806
+Oracle,Late (10+ years),280426.9406
+Salesforce,Grad (0-1 years),177394.2308
+Salesforce,Early (2-5 years),213788.2883
+Salesforce,Mid (5-10 years),258024.2857
+Salesforce,Late (10+ years),344410.1942
+Intel,Grad (0-1 years),134140
+Intel,Early (2-5 years),140419.8473
+Intel,Mid (5-10 years),173492.4925
+Intel,Late (10+ years),246771.261
+Cisco,Grad (0-1 years),127269.8413
+Cisco,Early (2-5 years),164818.1818
+Cisco,Mid (5-10 years),200688.9764
+Cisco,Late (10+ years),273629.9694
+Uber,Grad (0-1 years),177602.7397
+Uber,Early (2-5 years),257430.5556
+Uber,Mid (5-10 years),352296.875
+Uber,Late (10+ years),473455.3991
+Capital One,Grad (0-1 years),109606.0606
+Capital One,Early (2-5 years),132078.4884
+Capital One,Mid (5-10 years),161551.3514
+Capital One,Late (10+ years),225637.5839
+IBM,Grad (0-1 years),107782.6087
+IBM,Early (2-5 years),124553.1136
+IBM,Mid (5-10 years),149608.6957
+IBM,Late (10+ years),204171.4286
+LinkedIn,Grad (0-1 years),202573.0337
+LinkedIn,Early (2-5 years),265581.6733
+LinkedIn,Mid (5-10 years),342367.893
+LinkedIn,Late (10+ years),466938.5475
+VMware,Grad (0-1 years),154880
+VMware,Early (2-5 years),189974.359
+VMware,Mid (5-10 years),221951.5419
+VMware,Late (10+ years),301358.7444
+Qualcomm,Grad (0-1 years),137971.831
+Qualcomm,Early (2-5 years),148692.8105
+Qualcomm,Mid (5-10 years),194580.6452
+Qualcomm,Late (10+ years),269057.1429
+Bloomberg,Grad (0-1 years),167598.0769
+Bloomberg,Early (2-5 years),204498.6842
+Bloomberg,Mid (5-10 years),247218.75
+Bloomberg,Late (10+ years),303268.8172
+Intuit,Grad (0-1 years),141086.2069
+Intuit,Early (2-5 years),193546.0993
+Intuit,Mid (5-10 years),242482.2695
+Intuit,Late (10+ years),302806.2016
+JPMorgan Chase,Grad (0-1 years),95653.06122
+JPMorgan Chase,Early (2-5 years),128615.3846
+JPMorgan Chase,Mid (5-10 years),153470.5882
+JPMorgan Chase,Late (10+ years),212127.451
+PayPal,Grad (0-1 years),138324.3243
+PayPal,Early (2-5 years),180257.3529
+PayPal,Mid (5-10 years),242478.8732
+PayPal,Late (10+ years),318899.1597
+Twitter,Grad (0-1 years),189795.4545
+Twitter,Early (2-5 years),271725.3521
+Twitter,Mid (5-10 years),356487.3418
+Twitter,Late (10+ years),436536.0825
+Nvidia,Grad (0-1 years),180157.8947
+Nvidia,Early (2-5 years),208743.8017
+Nvidia,Mid (5-10 years),275351.3514
+Nvidia,Late (10+ years),352050.5051
+Goldman Sachs,Grad (0-1 years),126950
+Goldman Sachs,Early (2-5 years),158821.8391
+Goldman Sachs,Mid (5-10 years),212806.8182
+Goldman Sachs,Late (10+ years),306516.129
+eBay,Grad (0-1 years),148840
+eBay,Early (2-5 years),184773.5849
+eBay,Mid (5-10 years),230238.806
+eBay,Late (10+ years),303581.9672
+Deloitte,Grad (0-1 years),84040
+Deloitte,Early (2-5 years),110306.1224
+Deloitte,Mid (5-10 years),153047.2441
+Deloitte,Late (10+ years),192236.8421
+Lyft,Grad (0-1 years),230888.8889
+Lyft,Early (2-5 years),315685.1852
+Lyft,Mid (5-10 years),385098.1595
+Lyft,Late (10+ years),475084.3373
+Adobe,Grad (0-1 years),185520
+Adobe,Early (2-5 years),207418.1818
+Adobe,Mid (5-10 years),239884.8921
+Adobe,Late (10+ years),304192.3077
+Accenture,Grad (0-1 years),83000
+Accenture,Early (2-5 years),119761.3636
+Accenture,Mid (5-10 years),163362.6374
+Accenture,Late (10+ years),178891.5663
+Netflix,Grad (0-1 years),356000
+Netflix,Early (2-5 years),409500
+Netflix,Mid (5-10 years),461405.4054
+Netflix,Late (10+ years),522795.6204
+Dropbox,Grad (0-1 years),188705.8824
+Dropbox,Early (2-5 years),264584.4156
+Dropbox,Mid (5-10 years),338579.8319
+Dropbox,Late (10+ years),438505.7471
+Airbnb,Grad (0-1 years),235952.381
+Airbnb,Early (2-5 years),307942.5287
+Airbnb,Mid (5-10 years),386902.6549
+Airbnb,Late (10+ years),484178.5714
+Dell Technologies,Grad (0-1 years),105157.8947
+Dell Technologies,Early (2-5 years),141146.3415
+Dell Technologies,Mid (5-10 years),164671.875
+Dell Technologies,Late (10+ years),219947.9167
+Snap,Grad (0-1 years),202766.6667
+Snap,Early (2-5 years),334694.4444
+Snap,Mid (5-10 years),466615.3846
+Snap,Late (10+ years),713189.1892
+Average,Grad (0-1 years),141580.1
+Average,Early (2-5 years),184232.1
+Average,Mid (5-10 years),233008.2
+Average,Late (10+ years),298325.5
