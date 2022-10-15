@@ -1,79 +1,79 @@
-Company,Title,Compensation,Number
-Facebook,Business Analyst,173400,25
-Apple,Business Analyst,191000,8
-Amazon,Business Analyst,139462.3656,93
-Google,Business Analyst,211976.7442,43
-Microsoft,Business Analyst,169850,20
-Average,Business Analyst,139153.1165,738
-Facebook,Data Scientist,264380.6818,176
-Apple,Data Scientist,272506.6667,75
-Amazon,Data Scientist,236436.6812,229
-Google,Data Scientist,274119.0476,84
-Microsoft,Data Scientist,222905.4726,201
-Average,Data Scientist,219483.7984,2222
-Facebook,Hardware Engineer,330603.7736,53
-Apple,Hardware Engineer,271357.3201,403
-Amazon,Hardware Engineer,247604.1667,96
-Google,Hardware Engineer,283984.375,64
-Microsoft,Hardware Engineer,213817.2043,93
-Average,Hardware Engineer,227172.2561,1968
-Facebook,Human Resources,227937.5,16
-Apple,Human Resources,279500,8
-Amazon,Human Resources,191228.0702,57
-Google,Human Resources,201208.3333,24
-Microsoft,Human Resources,166888.8889,9
-Average,Human Resources,191996.7949,312
-Facebook,Marketing,250116.2791,43
-Apple,Marketing,281833.3333,12
-Amazon,Marketing,196928.5714,84
-Google,Marketing,239146.3415,41
-Microsoft,Marketing,202693.3333,75
-Average,Marketing,206504.7619,630
-Facebook,Mechanical Engineer,307363.6364,11
-Apple,Mechanical Engineer,240344.2623,61
-Amazon,Mechanical Engineer,222407.4074,27
-Google,Mechanical Engineer,258500,24
-Microsoft,Mechanical Engineer,210100,20
-Average,Mechanical Engineer,164322.3684,456
-Facebook,Product Designer,304234.375,128
-Apple,Product Designer,266692.3077,26
-Amazon,Product Designer,219880.2817,142
-Google,Product Designer,289045.8015,131
-Microsoft,Product Designer,202302.3256,86
-Average,Product Designer,219784.2847,1349
-Facebook,Product Manager,457776.0417,192
-Apple,Product Manager,297951.6129,62
-Amazon,Product Manager,276574.5455,825
-Google,Product Manager,392048.3271,269
-Microsoft,Product Manager,247042.4028,566
-Average,Product Manager,271396.9885,4184
-Facebook,Recruiter,178571.4286,56
-Apple,Recruiter,220750,8
-Amazon,Recruiter,150883.7209,86
-Google,Recruiter,179974.359,39
-Microsoft,Recruiter,143000,5
-Average,Recruiter,162017.2414,406
-Facebook,Software Engineer,347110.1983,1765
-Apple,Software Engineer,279762.7641,1136
-Amazon,Software Engineer,221491.7925,4173
-Google,Software Engineer,281450.9372,2721
-Microsoft,Software Engineer,201160.2684,2854
-Average,Software Engineer,226082.2709,34209
-Facebook,Software Engineering Manager,699063.8298,141
-Apple,Software Engineering Manager,463585.3659,82
-Amazon,Software Engineering Manager,405961.4767,623
-Google,Software Engineering Manager,519630.137,146
-Microsoft,Software Engineering Manager,380383.8028,284
-Average,Software Engineering Manager,383762.0769,3043
-Facebook,Solution Architect,249142.8571,7
-Apple,Solution Architect,322400,5
-Amazon,Solution Architect,249624.4726,237
-Google,Solution Architect,347888.8889,36
-Microsoft,Solution Architect,253000,99
-Average,Solution Architect,231338.565,892
-Facebook,Technical Program Manager,315782.6087,92
-Apple,Technical Program Manager,255263.1579,57
-Amazon,Technical Program Manager,240118.9427,227
-Google,Technical Program Manager,294195.6522,138
-Microsoft,Technical Program Manager,247885.4167,192
-Average,Technical Program Manager,249104.6229,1233
+Company,Title,Compensation,Number,Percentage
+Amazon,Business Analyst,139462.3656,93,1.348021452
+Amazon,Data Scientist,236436.6812,229,3.319321641
+Amazon,Hardware Engineer,247604.1667,96,1.391506015
+Amazon,Human Resources,191228.0702,57,0.826206697
+Amazon,Marketing,196928.5714,84,1.217567763
+Amazon,Mechanical Engineer,222407.4074,27,0.391361067
+Amazon,Product Designer,219880.2817,142,2.058269314
+Amazon,Product Manager,276574.5455,825,11.95825482
+Amazon,Recruiter,150883.7209,86,1.246557472
+Amazon,Software Engineer,221491.7925,4173,60.48702711
+Amazon,Software Engineering Manager,405961.4767,623,9.030294246
+Amazon,Solution Architect,249624.4726,237,3.435280475
+Amazon,Technical Program Manager,240118.9427,227,3.290331932
+Apple,Business Analyst,191000,8,0.411734431
+Apple,Data Scientist,272506.6667,75,3.860010293
+Apple,Hardware Engineer,271357.3201,403,20.74112198
+Apple,Human Resources,279500,8,0.411734431
+Apple,Marketing,281833.3333,12,0.617601647
+Apple,Mechanical Engineer,240344.2623,61,3.139475039
+Apple,Product Designer,266692.3077,26,1.338136902
+Apple,Product Manager,297951.6129,62,3.190941843
+Apple,Recruiter,220750,8,0.411734431
+Apple,Software Engineer,279762.7641,1136,58.46628924
+Apple,Software Engineering Manager,463585.3659,82,4.220277921
+Apple,Solution Architect,322400,5,0.25733402
+Apple,Technical Program Manager,255263.1579,57,2.933607823
+Average,Business Analyst,139153.1165,738,1.429069362
+Average,Data Scientist,219483.7984,2222,4.302699353
+Average,Hardware Engineer,227172.2561,1968,3.810851632
+Average,Human Resources,191996.7949,312,0.604159405
+Average,Marketing,206504.7619,630,1.21993726
+Average,Mechanical Engineer,164322.3684,456,0.883002208
+Average,Product Designer,219784.2847,1349,2.612214864
+Average,Product Manager,271396.9885,4184,8.101932536
+Average,Recruiter,162017.2414,406,0.78618179
+Average,Software Engineer,226082.2709,34209,66.24259324
+Average,Software Engineering Manager,383762.0769,3043,5.892490608
+Average,Solution Architect,231338.565,892,1.727276248
+Average,Technical Program Manager,249104.6229,1233,2.387591495
+Facebook,Business Analyst,173400,25,0.924214418
+Facebook,Data Scientist,264380.6818,176,6.506469501
+Facebook,Hardware Engineer,330603.7736,53,1.959334566
+Facebook,Human Resources,227937.5,16,0.591497227
+Facebook,Marketing,250116.2791,43,1.589648799
+Facebook,Mechanical Engineer,307363.6364,11,0.406654344
+Facebook,Product Designer,304234.375,128,4.731977819
+Facebook,Product Manager,457776.0417,192,7.097966728
+Facebook,Recruiter,178571.4286,56,2.070240296
+Facebook,Software Engineer,347110.1983,1765,65.24953789
+Facebook,Software Engineering Manager,699063.8298,141,5.212569316
+Facebook,Solution Architect,249142.8571,7,0.258780037
+Facebook,Technical Program Manager,315782.6087,92,3.401109057
+Google,Business Analyst,211976.7442,43,1.143617021
+Google,Data Scientist,274119.0476,84,2.234042553
+Google,Hardware Engineer,283984.375,64,1.70212766
+Google,Human Resources,201208.3333,24,0.638297872
+Google,Marketing,239146.3415,41,1.090425532
+Google,Mechanical Engineer,258500,24,0.638297872
+Google,Product Designer,289045.8015,131,3.484042553
+Google,Product Manager,392048.3271,269,7.154255319
+Google,Recruiter,179974.359,39,1.037234043
+Google,Software Engineer,281450.9372,2721,72.36702128
+Google,Software Engineering Manager,519630.137,146,3.882978723
+Google,Solution Architect,347888.8889,36,0.957446809
+Google,Technical Program Manager,294195.6522,138,3.670212766
+Microsoft,Business Analyst,169850,20,2.064831261
+Microsoft,Data Scientist,222905.4726,201,5.084369449
+Microsoft,Hardware Engineer,213817.2043,93,2.131438721
+Microsoft,Human Resources,166888.8889,9,1.265541741
+Microsoft,Marketing,202693.3333,75,1.865008881
+Microsoft,Mechanical Engineer,210100,20,0.59946714
+Microsoft,Product Designer,202302.3256,86,3.152753108
+Microsoft,Product Manager,247042.4028,566,18.31705151
+Microsoft,Recruiter,143000,5,1.909413854
+Microsoft,Software Engineer,201160.2684,2854,92.65097691
+Microsoft,Software Engineering Manager,380383.8028,284,13.8321492
+Microsoft,Solution Architect,253000,99,5.261989343
+Microsoft,Technical Program Manager,247885.4167,192,5.039964476
