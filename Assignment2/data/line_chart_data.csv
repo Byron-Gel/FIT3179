@@ -1,497 +1,497 @@
 company,Category,Compensation
-Amazon,Grad,159304.6956
-Amazon,Early,200537.9196
-Amazon,Mid,243235.2475
-Amazon,Late,328993.3036
-Microsoft,Grad,164352.8278
-Microsoft,Early,181437.9816
-Microsoft,Mid,215511.1752
-Microsoft,Late,292788.9814
-Google,Grad,182786.0616
-Google,Early,244512.1083
-Google,Mid,305758.5207
-Google,Late,421316.4319
-Facebook,Grad,193573.3496
-Facebook,Early,280416.953
-Facebook,Mid,373834.065
-Facebook,Late,512158.831
-Apple,Grad,180963.6752
-Apple,Early,243554.5171
-Apple,Mid,285602.7228
-Apple,Late,362962.3568
-Oracle,Grad,171868.2171
-Oracle,Early,191767.3469
-Oracle,Mid,241863.806
-Oracle,Late,280426.9406
-Salesforce,Grad,177394.2308
-Salesforce,Early,213788.2883
-Salesforce,Mid,258024.2857
-Salesforce,Late,344410.1942
-Intel,Grad,134140
-Intel,Early,140419.8473
-Intel,Mid,173492.4925
-Intel,Late,246771.261
-Cisco,Grad,127269.8413
-Cisco,Early,164818.1818
-Cisco,Mid,200688.9764
-Cisco,Late,273629.9694
-Uber,Grad,177602.7397
-Uber,Early,257430.5556
-Uber,Mid,352296.875
-Uber,Late,473455.3991
-Capital One,Grad,109606.0606
-Capital One,Early,132078.4884
-Capital One,Mid,161551.3514
-Capital One,Late,225637.5839
-IBM,Grad,107782.6087
-IBM,Early,124553.1136
-IBM,Mid,149608.6957
-IBM,Late,204171.4286
-LinkedIn,Grad,202573.0337
-LinkedIn,Early,265581.6733
-LinkedIn,Mid,342367.893
-LinkedIn,Late,466938.5475
-VMware,Grad,154880
-VMware,Early,189974.359
-VMware,Mid,221951.5419
-VMware,Late,301358.7444
-Qualcomm,Grad,137971.831
-Qualcomm,Early,148692.8105
-Qualcomm,Mid,194580.6452
-Qualcomm,Late,269057.1429
-Bloomberg,Grad,167598.0769
-Bloomberg,Early,204498.6842
-Bloomberg,Mid,247218.75
-Bloomberg,Late,303268.8172
-Intuit,Grad,141086.2069
-Intuit,Early,193546.0993
-Intuit,Mid,242482.2695
-Intuit,Late,302806.2016
-JPMorgan Chase,Grad,95653.06122
-JPMorgan Chase,Early,128615.3846
-JPMorgan Chase,Mid,153470.5882
-JPMorgan Chase,Late,212127.451
-PayPal,Grad,138324.3243
-PayPal,Early,180257.3529
-PayPal,Mid,242478.8732
-PayPal,Late,318899.1597
-Twitter,Grad,189795.4545
-Twitter,Early,271725.3521
-Twitter,Mid,356487.3418
-Twitter,Late,436536.0825
-Nvidia,Grad,180157.8947
-Nvidia,Early,208743.8017
-Nvidia,Mid,275351.3514
-Nvidia,Late,352050.5051
-Goldman Sachs,Grad,126950
-Goldman Sachs,Early,158821.8391
-Goldman Sachs,Mid,212806.8182
-Goldman Sachs,Late,306516.129
-eBay,Grad,148840
-eBay,Early,184773.5849
-eBay,Mid,230238.806
-eBay,Late,303581.9672
-Wayfair,Grad,111954.5455
-Wayfair,Early,155484.375
-Wayfair,Mid,221975.6098
-Wayfair,Late,337481.4815
-Deloitte,Grad,84040
-Deloitte,Early,110306.1224
-Deloitte,Mid,153047.2441
-Deloitte,Late,192236.8421
-Lyft,Grad,230888.8889
-Lyft,Early,315685.1852
-Lyft,Mid,385098.1595
-Lyft,Late,475084.3373
-Adobe,Grad,185520
-Adobe,Early,207418.1818
-Adobe,Mid,239884.8921
-Adobe,Late,304192.3077
-Walmart Labs,Grad,130387.0968
-Walmart Labs,Early,195444.4444
-Walmart Labs,Mid,243276.4228
-Walmart Labs,Late,303309.7345
-Expedia,Grad,135645.8333
-Expedia,Early,156588.2353
-Expedia,Mid,182295.9184
-Expedia,Late,233340.6593
-Accenture,Grad,83000
-Accenture,Early,119761.3636
-Accenture,Mid,163362.6374
-Accenture,Late,178891.5663
-Netflix,Grad,356000
-Netflix,Early,409500
-Netflix,Mid,461405.4054
-Netflix,Late,522795.6204
-Dropbox,Grad,188705.8824
-Dropbox,Early,264584.4156
-Dropbox,Mid,338579.8319
-Dropbox,Late,438505.7471
-Workday,Grad,139142.8571
-Workday,Early,182594.0594
-Workday,Mid,249903.6145
-Workday,Late,298314.2857
-Airbnb,Grad,235952.381
-Airbnb,Early,307942.5287
-Airbnb,Mid,386902.6549
-Airbnb,Late,484178.5714
-sap,Grad,117571.4286
-sap,Early,134545.4545
-sap,Mid,161245.614
-sap,Late,236333.3333
-Visa,Grad,109315.7895
-Visa,Early,140250
-Visa,Mid,169456.1404
-Visa,Late,227370.3704
-Dell Technologies,Grad,105157.8947
-Dell Technologies,Early,141146.3415
-Dell Technologies,Mid,164671.875
-Dell Technologies,Late,219947.9167
-Snap,Grad,202766.6667
-Snap,Early,334694.4444
-Snap,Mid,466615.3846
-Snap,Late,713189.1892
-Yahoo,Grad,158269.2308
-Yahoo,Early,184920.6349
-Yahoo,Mid,227114.7541
-Yahoo,Late,313218.75
-Tesla,Grad,165375
-Tesla,Early,171088.6076
-Tesla,Mid,234048.3871
-Tesla,Late,301161.2903
-Yelp,Grad,158225
-Yelp,Early,205482.3529
-Yelp,Mid,270381.8182
-Yelp,Late,277625
-Zillow,Grad,167000
-Zillow,Early,207868.8525
-Zillow,Mid,266197.3684
-Zillow,Late,301266.6667
-Square,Grad,161562.5
-Square,Early,262352.9412
-Square,Mid,338549.2958
-Square,Late,421068.9655
-ServiceNow,Grad,121166.6667
-ServiceNow,Early,181700
-ServiceNow,Mid,236921.0526
-ServiceNow,Late,310113.2075
-Splunk,Grad,178545.4545
-Splunk,Early,228314.8148
-Splunk,Mid,297508.4746
-Splunk,Late,397037.037
-Indeed,Grad,116916.6667
-Indeed,Early,184538.4615
-Indeed,Mid,242253.9683
-Indeed,Late,319946.4286
-Stripe,Grad,224650
-Stripe,Early,302404.2553
-Stripe,Mid,442637.931
-Stripe,Late,488186.0465
-Comcast,Grad,102066.6667
-Comcast,Early,124585.3659
-Comcast,Mid,157760
-Comcast,Late,233816.6667
-T-Mobile,Grad,99961.53846
-T-Mobile,Early,146846.1538
-T-Mobile,Mid,163068.1818
-T-Mobile,Late,198321.4286
-Pinterest,Grad,217950
-Pinterest,Early,320655.7377
-Pinterest,Mid,429897.9592
-Pinterest,Late,578545.4545
-DoorDash,Grad,186933.3333
-DoorDash,Early,266943.3962
-DoorDash,Mid,348500
-DoorDash,Late,413095.2381
-Godaddy,Grad,124823.5294
-Godaddy,Early,155307.6923
-Godaddy,Mid,176244.4444
-Godaddy,Late,260285.7143
-ByteDance,Grad,190800
-ByteDance,Early,295403.5088
-ByteDance,Mid,424877.193
-ByteDance,Late,388928.5714
-Boeing,Grad,83133.33333
-Boeing,Early,95829.26829
-Boeing,Mid,121333.3333
-Boeing,Late,164230.7692
-Broadcom,Grad,181333.3333
-Broadcom,Early,180235.2941
-Broadcom,Mid,255675
-Broadcom,Late,404025.974
-General Motors,Grad,75089.28571
-General Motors,Early,98181.81818
-General Motors,Mid,124173.913
-General Motors,Late,180285.7143
-Walmart,Grad,128100
-Walmart,Early,143659.0909
-Walmart,Mid,215625
-Walmart,Late,331488.3721
-American Express,Grad,93518.51852
-American Express,Early,117860
-American Express,Mid,149459.4595
-American Express,Late,185050
-Atlassian,Grad,167633.3333
-Atlassian,Early,201351.3514
-Atlassian,Mid,233930.2326
-Atlassian,Late,282838.7097
-Cruise,Grad,211636.3636
-Cruise,Early,300566.6667
-Cruise,Mid,353400
-Cruise,Late,482266.6667
-Qualtrics,Grad,133555.5556
-Qualtrics,Early,199018.8679
-Qualtrics,Mid,238906.25
-Qualtrics,Late,312850
-Lockheed Martin,Grad,85791.66667
-Lockheed Martin,Early,101836.7347
-Lockheed Martin,Mid,125548.3871
-Lockheed Martin,Late,167080
-Box,Grad,149000
-Box,Early,232562.5
-Box,Mid,297090.9091
-Box,Late,354673.0769
-Spotify,Grad,136571.4286
-Spotify,Early,188909.0909
-Spotify,Mid,223098.3607
-Spotify,Late,263500
-Autodesk,Grad,142000
-Autodesk,Early,165833.3333
-Autodesk,Mid,198564.1026
-Autodesk,Late,267816.3265
-Ernst and Young,Grad,80950
-Ernst and Young,Early,121621.6216
-Ernst and Young,Mid,157363.6364
-Ernst and Young,Late,207760
-Northrop Grumman,Grad,80043.47826
-Northrop Grumman,Early,97938.77551
-Northrop Grumman,Mid,123428.5714
-Northrop Grumman,Late,167500
-Twilio,Grad,140181.8182
-Twilio,Early,245833.3333
-Twilio,Mid,294769.2308
-Twilio,Late,387333.3333
-Samsung,Grad,131333.3333
-Samsung,Early,165400
-Samsung,Mid,203288.8889
-Samsung,Late,236977.7778
-Nutanix,Grad,153769.2308
-Nutanix,Early,183027.7778
-Nutanix,Mid,248363.6364
-Nutanix,Late,299360
-AMD,Grad,117833.3333
-AMD,Early,141707.3171
-AMD,Mid,195150
-AMD,Late,253633.3333
-Cerner,Grad,70928.57143
-Cerner,Early,79163.63636
-Cerner,Mid,97781.25
-Cerner,Late,131000
-Disney,Grad,125000
-Disney,Early,141193.5484
-Disney,Mid,173600
-Disney,Late,251200
-USAA,Grad,76600
-USAA,Early,99805.55556
-USAA,Mid,128022.2222
-USAA,Late,157190.4762
-Coinbase,Grad,179842.1053
-Coinbase,Early,262846.1538
-Coinbase,Mid,368702.1277
-Coinbase,Late,474000
-Instacart,Grad,185000
-Instacart,Early,317823.5294
-Instacart,Mid,359731.7073
-Instacart,Late,558764.7059
-Epic Systems,Grad,103900
-Epic Systems,Early,126590.9091
-Epic Systems,Mid,176040
-Epic Systems,Late,191416.6667
-Booz Allen Hamilton,Grad,86461.53846
-Booz Allen Hamilton,Early,106833.3333
-Booz Allen Hamilton,Mid,135500
-Booz Allen Hamilton,Late,157461.5385
-target,Grad,88350
-target,Early,116677.4194
-target,Mid,164884.6154
-target,Late,180263.1579
-DocuSign,Grad,142888.8889
-DocuSign,Early,208884.6154
-DocuSign,Mid,267658.5366
-DocuSign,Late,310130.4348
-Morgan Stanley,Grad,107000
-Morgan Stanley,Early,145769.2308
-Morgan Stanley,Mid,174857.1429
-Morgan Stanley,Late,213076.9231
-Tableau Software,Grad,208000
-Tableau Software,Early,285409.0909
-Tableau Software,Mid,315586.2069
-Tableau Software,Late,334296.2963
-Slalom,Grad,92000
-Slalom,Early,118714.2857
-Slalom,Mid,158461.5385
-Slalom,Late,184037.037
-HubSpot,Grad,134100
-HubSpot,Early,164513.5135
-HubSpot,Mid,209740.7407
-HubSpot,Late,220200
-Robinhood,Grad,200277.7778
-Robinhood,Early,317833.3333
-Robinhood,Mid,409964.2857
-Robinhood,Late,441000
-WeWork,Grad,106000
-WeWork,Early,199225.8065
-WeWork,Mid,241214.2857
-WeWork,Late,307954.5455
-Verizon,Grad,129000
-Verizon,Early,144827.5862
-Verizon,Mid,173464.2857
-Verizon,Late,222600
-Groupon,Grad,147875
-Groupon,Early,149777.7778
-Groupon,Mid,201088.2353
-Groupon,Late,256523.8095
-Palo Alto Networks,Grad,176555.5556
-Palo Alto Networks,Early,226000
-Palo Alto Networks,Mid,273437.5
-Palo Alto Networks,Late,318935.4839
-PwC,Grad,79500
-PwC,Early,135928.5714
-PwC,Mid,170578.9474
-PwC,Late,251444.4444
-Nike,Grad,93750
-Nike,Early,145142.8571
-Nike,Mid,164827.5862
-Nike,Late,218413.7931
-Nordstrom,Grad,128375
-Nordstrom,Early,145071.4286
-Nordstrom,Mid,156800
-Nordstrom,Late,210550
-NetApp,Grad,121000
-NetApp,Early,150444.4444
-NetApp,Mid,170181.8182
-NetApp,Late,230566.6667
-Epam Systems,Grad,78000
-Epam Systems,Early,132333.3333
-Epam Systems,Mid,136717.9487
-Epam Systems,Late,138309.5238
-Two Sigma,Grad,215789.4737
-Two Sigma,Early,268633.3333
-Two Sigma,Mid,361809.5238
-Two Sigma,Late,395272.7273
-Raytheon,Grad,79150
-Raytheon,Early,106258.0645
-Raytheon,Mid,134625
-Raytheon,Late,145666.6667
-AT&T,Grad,100200
-AT&T,Early,117148.1481
-AT&T,Mid,153722.2222
-AT&T,Late,197055.5556
-Compass,Grad,199500
-Compass,Early,210212.1212
-Compass,Mid,263027.027
-Compass,Late,353866.6667
-McKinsey,Grad,126400
-McKinsey,Early,170680
-McKinsey,Mid,236939.3939
-McKinsey,Late,302909.0909
-Slack,Grad,189000
-Slack,Early,290611.1111
-Slack,Mid,394375
-Slack,Late,494423.0769
-MathWorks,Grad,110600
-MathWorks,Early,128037.037
-MathWorks,Mid,157535.7143
-MathWorks,Late,177333.3333
-Citi,Grad,99000
-Citi,Early,116944.4444
-Citi,Mid,148888.8889
-Citi,Late,188560
-Wells Fargo,Grad,119250
-Wells Fargo,Early,122333.3333
-Wells Fargo,Mid,160904.7619
-Wells Fargo,Late,211920
-ARM,Grad,137375
-ARM,Early,144586.2069
-ARM,Mid,180148.1481
-ARM,Late,242636.3636
-Citrix Systems Inc,Grad,131214.2857
-Citrix Systems Inc,Early,147705.8824
-Citrix Systems Inc,Mid,173850
-Citrix Systems Inc,Late,281500
-KPMG,Grad,82153.84615
-KPMG,Early,101380.9524
-KPMG,Mid,151727.2727
-KPMG,Late,216066.6667
-BlackRock,Grad,112454.5455
-BlackRock,Early,147148.1481
-BlackRock,Mid,176785.7143
-BlackRock,Late,209466.6667
-Mastercard,Grad,110142.8571
-Mastercard,Early,136040
-Mastercard,Mid,167350
-Mastercard,Late,210625
-Etsy,Grad,147000
-Etsy,Early,190031.25
-Etsy,Mid,248458.3333
-Etsy,Late,278928.5714
-HPE,Grad,112400
-HPE,Early,137055.5556
-HPE,Mid,167000
-HPE,Late,219392.8571
-Roblox,Grad,216615.3846
-Roblox,Early,275529.4118
-Roblox,Mid,369318.1818
-Roblox,Late,613619.0476
-Squarespace,Grad,163000
-Squarespace,Early,173238.0952
-Squarespace,Mid,188281.25
-Squarespace,Late,235000
-Bank of America,Grad,87500
-Bank of America,Early,114782.6087
-Bank of America,Mid,133900
-Bank of America,Late,195684.2105
-Bank of America Merrill Lynch,Grad,110625
-Bank of America Merrill Lynch,Early,122470.5882
-Bank of America Merrill Lynch,Mid,160300
-Bank of America Merrill Lynch,Late,187909.0909
-Charles Schwab,Grad,84333.33333
-Charles Schwab,Early,139062.5
-Charles Schwab,Mid,141391.3043
-Charles Schwab,Late,153105.2632
-Grubhub,Grad,112500
-Grubhub,Early,154181.8182
-Grubhub,Mid,183689.6552
-Grubhub,Late,289000
-Red Hat,Grad,109800
-Red Hat,Early,126866.6667
-Red Hat,Mid,192294.1176
-Red Hat,Late,212111.1111
-Hulu,Grad,222500
-Hulu,Early,210050
-Hulu,Mid,220878.7879
-Hulu,Late,267375
-Blizzard Entertainment,Grad,84500
-Blizzard Entertainment,Early,113062.5
-Blizzard Entertainment,Mid,130782.6087
-Blizzard Entertainment,Late,170913.0435
-Roku,Grad,115333.3333
-Roku,Early,233181.8182
-Roku,Mid,312500
-Roku,Late,387344.8276
-Rubrik,Grad,180700
-Rubrik,Early,229571.4286
-Rubrik,Mid,356176.4706
-Rubrik,Late,430666.6667
-Rally Health,Grad,120000
-Rally Health,Early,156947.3684
-Rally Health,Mid,194285.7143
-Rally Health,Late,232000
-Synopsys,Grad,128000
-Synopsys,Early,149705.8824
-Synopsys,Mid,155952.381
-Synopsys,Late,236350
-Waymo,Grad,236300
-Waymo,Early,284240
-Waymo,Mid,363523.8095
-Waymo,Late,440000
+Amazon,Grad (0-1 years),159304.6956
+Amazon,Early (2-5 years),200537.9196
+Amazon,Mid (5-10 years),243235.2475
+Amazon,Late (10+ years),328993.3036
+Microsoft,Grad (0-1 years),164352.8278
+Microsoft,Early (2-5 years),181437.9816
+Microsoft,Mid (5-10 years),215511.1752
+Microsoft,Late (10+ years),292788.9814
+Google,Grad (0-1 years),182786.0616
+Google,Early (2-5 years),244512.1083
+Google,Mid (5-10 years),305758.5207
+Google,Late (10+ years),421316.4319
+Facebook,Grad (0-1 years),193573.3496
+Facebook,Early (2-5 years),280416.953
+Facebook,Mid (5-10 years),373834.065
+Facebook,Late (10+ years),512158.831
+Apple,Grad (0-1 years),180963.6752
+Apple,Early (2-5 years),243554.5171
+Apple,Mid (5-10 years),285602.7228
+Apple,Late (10+ years),362962.3568
+Oracle,Grad (0-1 years),171868.2171
+Oracle,Early (2-5 years),191767.3469
+Oracle,Mid (5-10 years),241863.806
+Oracle,Late (10+ years),280426.9406
+Salesforce,Grad (0-1 years),177394.2308
+Salesforce,Early (2-5 years),213788.2883
+Salesforce,Mid (5-10 years),258024.2857
+Salesforce,Late (10+ years),344410.1942
+Intel,Grad (0-1 years),134140
+Intel,Early (2-5 years),140419.8473
+Intel,Mid (5-10 years),173492.4925
+Intel,Late (10+ years),246771.261
+Cisco,Grad (0-1 years),127269.8413
+Cisco,Early (2-5 years),164818.1818
+Cisco,Mid (5-10 years),200688.9764
+Cisco,Late (10+ years),273629.9694
+Uber,Grad (0-1 years),177602.7397
+Uber,Early (2-5 years),257430.5556
+Uber,Mid (5-10 years),352296.875
+Uber,Late (10+ years),473455.3991
+Capital One,Grad (0-1 years),109606.0606
+Capital One,Early (2-5 years),132078.4884
+Capital One,Mid (5-10 years),161551.3514
+Capital One,Late (10+ years),225637.5839
+IBM,Grad (0-1 years),107782.6087
+IBM,Early (2-5 years),124553.1136
+IBM,Mid (5-10 years),149608.6957
+IBM,Late (10+ years),204171.4286
+LinkedIn,Grad (0-1 years),202573.0337
+LinkedIn,Early (2-5 years),265581.6733
+LinkedIn,Mid (5-10 years),342367.893
+LinkedIn,Late (10+ years),466938.5475
+VMware,Grad (0-1 years),154880
+VMware,Early (2-5 years),189974.359
+VMware,Mid (5-10 years),221951.5419
+VMware,Late (10+ years),301358.7444
+Qualcomm,Grad (0-1 years),137971.831
+Qualcomm,Early (2-5 years),148692.8105
+Qualcomm,Mid (5-10 years),194580.6452
+Qualcomm,Late (10+ years),269057.1429
+Bloomberg,Grad (0-1 years),167598.0769
+Bloomberg,Early (2-5 years),204498.6842
+Bloomberg,Mid (5-10 years),247218.75
+Bloomberg,Late (10+ years),303268.8172
+Intuit,Grad (0-1 years),141086.2069
+Intuit,Early (2-5 years),193546.0993
+Intuit,Mid (5-10 years),242482.2695
+Intuit,Late (10+ years),302806.2016
+JPMorgan Chase,Grad (0-1 years),95653.06122
+JPMorgan Chase,Early (2-5 years),128615.3846
+JPMorgan Chase,Mid (5-10 years),153470.5882
+JPMorgan Chase,Late (10+ years),212127.451
+PayPal,Grad (0-1 years),138324.3243
+PayPal,Early (2-5 years),180257.3529
+PayPal,Mid (5-10 years),242478.8732
+PayPal,Late (10+ years),318899.1597
+Twitter,Grad (0-1 years),189795.4545
+Twitter,Early (2-5 years),271725.3521
+Twitter,Mid (5-10 years),356487.3418
+Twitter,Late (10+ years),436536.0825
+Nvidia,Grad (0-1 years),180157.8947
+Nvidia,Early (2-5 years),208743.8017
+Nvidia,Mid (5-10 years),275351.3514
+Nvidia,Late (10+ years),352050.5051
+Goldman Sachs,Grad (0-1 years),126950
+Goldman Sachs,Early (2-5 years),158821.8391
+Goldman Sachs,Mid (5-10 years),212806.8182
+Goldman Sachs,Late (10+ years),306516.129
+eBay,Grad (0-1 years),148840
+eBay,Early (2-5 years),184773.5849
+eBay,Mid (5-10 years),230238.806
+eBay,Late (10+ years),303581.9672
+Wayfair,Grad (0-1 years),111954.5455
+Wayfair,Early (2-5 years),155484.375
+Wayfair,Mid (5-10 years),221975.6098
+Wayfair,Late (10+ years),337481.4815
+Deloitte,Grad (0-1 years),84040
+Deloitte,Early (2-5 years),110306.1224
+Deloitte,Mid (5-10 years),153047.2441
+Deloitte,Late (10+ years),192236.8421
+Lyft,Grad (0-1 years),230888.8889
+Lyft,Early (2-5 years),315685.1852
+Lyft,Mid (5-10 years),385098.1595
+Lyft,Late (10+ years),475084.3373
+Adobe,Grad (0-1 years),185520
+Adobe,Early (2-5 years),207418.1818
+Adobe,Mid (5-10 years),239884.8921
+Adobe,Late (10+ years),304192.3077
+Walmart Labs,Grad (0-1 years),130387.0968
+Walmart Labs,Early (2-5 years),195444.4444
+Walmart Labs,Mid (5-10 years),243276.4228
+Walmart Labs,Late (10+ years),303309.7345
+Expedia,Grad (0-1 years),135645.8333
+Expedia,Early (2-5 years),156588.2353
+Expedia,Mid (5-10 years),182295.9184
+Expedia,Late (10+ years),233340.6593
+Accenture,Grad (0-1 years),83000
+Accenture,Early (2-5 years),119761.3636
+Accenture,Mid (5-10 years),163362.6374
+Accenture,Late (10+ years),178891.5663
+Netflix,Grad (0-1 years),356000
+Netflix,Early (2-5 years),409500
+Netflix,Mid (5-10 years),461405.4054
+Netflix,Late (10+ years),522795.6204
+Dropbox,Grad (0-1 years),188705.8824
+Dropbox,Early (2-5 years),264584.4156
+Dropbox,Mid (5-10 years),338579.8319
+Dropbox,Late (10+ years),438505.7471
+Workday,Grad (0-1 years),139142.8571
+Workday,Early (2-5 years),182594.0594
+Workday,Mid (5-10 years),249903.6145
+Workday,Late (10+ years),298314.2857
+Airbnb,Grad (0-1 years),235952.381
+Airbnb,Early (2-5 years),307942.5287
+Airbnb,Mid (5-10 years),386902.6549
+Airbnb,Late (10+ years),484178.5714
+sap,Grad (0-1 years),117571.4286
+sap,Early (2-5 years),134545.4545
+sap,Mid (5-10 years),161245.614
+sap,Late (10+ years),236333.3333
+Visa,Grad (0-1 years),109315.7895
+Visa,Early (2-5 years),140250
+Visa,Mid (5-10 years),169456.1404
+Visa,Late (10+ years),227370.3704
+Dell Technologies,Grad (0-1 years),105157.8947
+Dell Technologies,Early (2-5 years),141146.3415
+Dell Technologies,Mid (5-10 years),164671.875
+Dell Technologies,Late (10+ years),219947.9167
+Snap,Grad (0-1 years),202766.6667
+Snap,Early (2-5 years),334694.4444
+Snap,Mid (5-10 years),466615.3846
+Snap,Late (10+ years),713189.1892
+Yahoo,Grad (0-1 years),158269.2308
+Yahoo,Early (2-5 years),184920.6349
+Yahoo,Mid (5-10 years),227114.7541
+Yahoo,Late (10+ years),313218.75
+Tesla,Grad (0-1 years),165375
+Tesla,Early (2-5 years),171088.6076
+Tesla,Mid (5-10 years),234048.3871
+Tesla,Late (10+ years),301161.2903
+Yelp,Grad (0-1 years),158225
+Yelp,Early (2-5 years),205482.3529
+Yelp,Mid (5-10 years),270381.8182
+Yelp,Late (10+ years),277625
+Zillow,Grad (0-1 years),167000
+Zillow,Early (2-5 years),207868.8525
+Zillow,Mid (5-10 years),266197.3684
+Zillow,Late (10+ years),301266.6667
+Square,Grad (0-1 years),161562.5
+Square,Early (2-5 years),262352.9412
+Square,Mid (5-10 years),338549.2958
+Square,Late (10+ years),421068.9655
+ServiceNow,Grad (0-1 years),121166.6667
+ServiceNow,Early (2-5 years),181700
+ServiceNow,Mid (5-10 years),236921.0526
+ServiceNow,Late (10+ years),310113.2075
+Splunk,Grad (0-1 years),178545.4545
+Splunk,Early (2-5 years),228314.8148
+Splunk,Mid (5-10 years),297508.4746
+Splunk,Late (10+ years),397037.037
+Indeed,Grad (0-1 years),116916.6667
+Indeed,Early (2-5 years),184538.4615
+Indeed,Mid (5-10 years),242253.9683
+Indeed,Late (10+ years),319946.4286
+Stripe,Grad (0-1 years),224650
+Stripe,Early (2-5 years),302404.2553
+Stripe,Mid (5-10 years),442637.931
+Stripe,Late (10+ years),488186.0465
+Comcast,Grad (0-1 years),102066.6667
+Comcast,Early (2-5 years),124585.3659
+Comcast,Mid (5-10 years),157760
+Comcast,Late (10+ years),233816.6667
+T-Mobile,Grad (0-1 years),99961.53846
+T-Mobile,Early (2-5 years),146846.1538
+T-Mobile,Mid (5-10 years),163068.1818
+T-Mobile,Late (10+ years),198321.4286
+Pinterest,Grad (0-1 years),217950
+Pinterest,Early (2-5 years),320655.7377
+Pinterest,Mid (5-10 years),429897.9592
+Pinterest,Late (10+ years),578545.4545
+DoorDash,Grad (0-1 years),186933.3333
+DoorDash,Early (2-5 years),266943.3962
+DoorDash,Mid (5-10 years),348500
+DoorDash,Late (10+ years),413095.2381
+Godaddy,Grad (0-1 years),124823.5294
+Godaddy,Early (2-5 years),155307.6923
+Godaddy,Mid (5-10 years),176244.4444
+Godaddy,Late (10+ years),260285.7143
+ByteDance,Grad (0-1 years),190800
+ByteDance,Early (2-5 years),295403.5088
+ByteDance,Mid (5-10 years),424877.193
+ByteDance,Late (10+ years),388928.5714
+Boeing,Grad (0-1 years),83133.33333
+Boeing,Early (2-5 years),95829.26829
+Boeing,Mid (5-10 years),121333.3333
+Boeing,Late (10+ years),164230.7692
+Broadcom,Grad (0-1 years),181333.3333
+Broadcom,Early (2-5 years),180235.2941
+Broadcom,Mid (5-10 years),255675
+Broadcom,Late (10+ years),404025.974
+General Motors,Grad (0-1 years),75089.28571
+General Motors,Early (2-5 years),98181.81818
+General Motors,Mid (5-10 years),124173.913
+General Motors,Late (10+ years),180285.7143
+Walmart,Grad (0-1 years),128100
+Walmart,Early (2-5 years),143659.0909
+Walmart,Mid (5-10 years),215625
+Walmart,Late (10+ years),331488.3721
+American Express,Grad (0-1 years),93518.51852
+American Express,Early (2-5 years),117860
+American Express,Mid (5-10 years),149459.4595
+American Express,Late (10+ years),185050
+Atlassian,Grad (0-1 years),167633.3333
+Atlassian,Early (2-5 years),201351.3514
+Atlassian,Mid (5-10 years),233930.2326
+Atlassian,Late (10+ years),282838.7097
+Cruise,Grad (0-1 years),211636.3636
+Cruise,Early (2-5 years),300566.6667
+Cruise,Mid (5-10 years),353400
+Cruise,Late (10+ years),482266.6667
+Qualtrics,Grad (0-1 years),133555.5556
+Qualtrics,Early (2-5 years),199018.8679
+Qualtrics,Mid (5-10 years),238906.25
+Qualtrics,Late (10+ years),312850
+Lockheed Martin,Grad (0-1 years),85791.66667
+Lockheed Martin,Early (2-5 years),101836.7347
+Lockheed Martin,Mid (5-10 years),125548.3871
+Lockheed Martin,Late (10+ years),167080
+Box,Grad (0-1 years),149000
+Box,Early (2-5 years),232562.5
+Box,Mid (5-10 years),297090.9091
+Box,Late (10+ years),354673.0769
+Spotify,Grad (0-1 years),136571.4286
+Spotify,Early (2-5 years),188909.0909
+Spotify,Mid (5-10 years),223098.3607
+Spotify,Late (10+ years),263500
+Autodesk,Grad (0-1 years),142000
+Autodesk,Early (2-5 years),165833.3333
+Autodesk,Mid (5-10 years),198564.1026
+Autodesk,Late (10+ years),267816.3265
+Ernst and Young,Grad (0-1 years),80950
+Ernst and Young,Early (2-5 years),121621.6216
+Ernst and Young,Mid (5-10 years),157363.6364
+Ernst and Young,Late (10+ years),207760
+Northrop Grumman,Grad (0-1 years),80043.47826
+Northrop Grumman,Early (2-5 years),97938.77551
+Northrop Grumman,Mid (5-10 years),123428.5714
+Northrop Grumman,Late (10+ years),167500
+Twilio,Grad (0-1 years),140181.8182
+Twilio,Early (2-5 years),245833.3333
+Twilio,Mid (5-10 years),294769.2308
+Twilio,Late (10+ years),387333.3333
+Samsung,Grad (0-1 years),131333.3333
+Samsung,Early (2-5 years),165400
+Samsung,Mid (5-10 years),203288.8889
+Samsung,Late (10+ years),236977.7778
+Nutanix,Grad (0-1 years),153769.2308
+Nutanix,Early (2-5 years),183027.7778
+Nutanix,Mid (5-10 years),248363.6364
+Nutanix,Late (10+ years),299360
+AMD,Grad (0-1 years),117833.3333
+AMD,Early (2-5 years),141707.3171
+AMD,Mid (5-10 years),195150
+AMD,Late (10+ years),253633.3333
+Cerner,Grad (0-1 years),70928.57143
+Cerner,Early (2-5 years),79163.63636
+Cerner,Mid (5-10 years),97781.25
+Cerner,Late (10+ years),131000
+Disney,Grad (0-1 years),125000
+Disney,Early (2-5 years),141193.5484
+Disney,Mid (5-10 years),173600
+Disney,Late (10+ years),251200
+USAA,Grad (0-1 years),76600
+USAA,Early (2-5 years),99805.55556
+USAA,Mid (5-10 years),128022.2222
+USAA,Late (10+ years),157190.4762
+Coinbase,Grad (0-1 years),179842.1053
+Coinbase,Early (2-5 years),262846.1538
+Coinbase,Mid (5-10 years),368702.1277
+Coinbase,Late (10+ years),474000
+Instacart,Grad (0-1 years),185000
+Instacart,Early (2-5 years),317823.5294
+Instacart,Mid (5-10 years),359731.7073
+Instacart,Late (10+ years),558764.7059
+Epic Systems,Grad (0-1 years),103900
+Epic Systems,Early (2-5 years),126590.9091
+Epic Systems,Mid (5-10 years),176040
+Epic Systems,Late (10+ years),191416.6667
+Booz Allen Hamilton,Grad (0-1 years),86461.53846
+Booz Allen Hamilton,Early (2-5 years),106833.3333
+Booz Allen Hamilton,Mid (5-10 years),135500
+Booz Allen Hamilton,Late (10+ years),157461.5385
+target,Grad (0-1 years),88350
+target,Early (2-5 years),116677.4194
+target,Mid (5-10 years),164884.6154
+target,Late (10+ years),180263.1579
+DocuSign,Grad (0-1 years),142888.8889
+DocuSign,Early (2-5 years),208884.6154
+DocuSign,Mid (5-10 years),267658.5366
+DocuSign,Late (10+ years),310130.4348
+Morgan Stanley,Grad (0-1 years),107000
+Morgan Stanley,Early (2-5 years),145769.2308
+Morgan Stanley,Mid (5-10 years),174857.1429
+Morgan Stanley,Late (10+ years),213076.9231
+Tableau Software,Grad (0-1 years),208000
+Tableau Software,Early (2-5 years),285409.0909
+Tableau Software,Mid (5-10 years),315586.2069
+Tableau Software,Late (10+ years),334296.2963
+Slalom,Grad (0-1 years),92000
+Slalom,Early (2-5 years),118714.2857
+Slalom,Mid (5-10 years),158461.5385
+Slalom,Late (10+ years),184037.037
+HubSpot,Grad (0-1 years),134100
+HubSpot,Early (2-5 years),164513.5135
+HubSpot,Mid (5-10 years),209740.7407
+HubSpot,Late (10+ years),220200
+Robinhood,Grad (0-1 years),200277.7778
+Robinhood,Early (2-5 years),317833.3333
+Robinhood,Mid (5-10 years),409964.2857
+Robinhood,Late (10+ years),441000
+WeWork,Grad (0-1 years),106000
+WeWork,Early (2-5 years),199225.8065
+WeWork,Mid (5-10 years),241214.2857
+WeWork,Late (10+ years),307954.5455
+Verizon,Grad (0-1 years),129000
+Verizon,Early (2-5 years),144827.5862
+Verizon,Mid (5-10 years),173464.2857
+Verizon,Late (10+ years),222600
+Groupon,Grad (0-1 years),147875
+Groupon,Early (2-5 years),149777.7778
+Groupon,Mid (5-10 years),201088.2353
+Groupon,Late (10+ years),256523.8095
+Palo Alto Networks,Grad (0-1 years),176555.5556
+Palo Alto Networks,Early (2-5 years),226000
+Palo Alto Networks,Mid (5-10 years),273437.5
+Palo Alto Networks,Late (10+ years),318935.4839
+PwC,Grad (0-1 years),79500
+PwC,Early (2-5 years),135928.5714
+PwC,Mid (5-10 years),170578.9474
+PwC,Late (10+ years),251444.4444
+Nike,Grad (0-1 years),93750
+Nike,Early (2-5 years),145142.8571
+Nike,Mid (5-10 years),164827.5862
+Nike,Late (10+ years),218413.7931
+Nordstrom,Grad (0-1 years),128375
+Nordstrom,Early (2-5 years),145071.4286
+Nordstrom,Mid (5-10 years),156800
+Nordstrom,Late (10+ years),210550
+NetApp,Grad (0-1 years),121000
+NetApp,Early (2-5 years),150444.4444
+NetApp,Mid (5-10 years),170181.8182
+NetApp,Late (10+ years),230566.6667
+Epam Systems,Grad (0-1 years),78000
+Epam Systems,Early (2-5 years),132333.3333
+Epam Systems,Mid (5-10 years),136717.9487
+Epam Systems,Late (10+ years),138309.5238
+Two Sigma,Grad (0-1 years),215789.4737
+Two Sigma,Early (2-5 years),268633.3333
+Two Sigma,Mid (5-10 years),361809.5238
+Two Sigma,Late (10+ years),395272.7273
+Raytheon,Grad (0-1 years),79150
+Raytheon,Early (2-5 years),106258.0645
+Raytheon,Mid (5-10 years),134625
+Raytheon,Late (10+ years),145666.6667
+AT&T,Grad (0-1 years),100200
+AT&T,Early (2-5 years),117148.1481
+AT&T,Mid (5-10 years),153722.2222
+AT&T,Late (10+ years),197055.5556
+Compass,Grad (0-1 years),199500
+Compass,Early (2-5 years),210212.1212
+Compass,Mid (5-10 years),263027.027
+Compass,Late (10+ years),353866.6667
+McKinsey,Grad (0-1 years),126400
+McKinsey,Early (2-5 years),170680
+McKinsey,Mid (5-10 years),236939.3939
+McKinsey,Late (10+ years),302909.0909
+Slack,Grad (0-1 years),189000
+Slack,Early (2-5 years),290611.1111
+Slack,Mid (5-10 years),394375
+Slack,Late (10+ years),494423.0769
+MathWorks,Grad (0-1 years),110600
+MathWorks,Early (2-5 years),128037.037
+MathWorks,Mid (5-10 years),157535.7143
+MathWorks,Late (10+ years),177333.3333
+Citi,Grad (0-1 years),99000
+Citi,Early (2-5 years),116944.4444
+Citi,Mid (5-10 years),148888.8889
+Citi,Late (10+ years),188560
+Wells Fargo,Grad (0-1 years),119250
+Wells Fargo,Early (2-5 years),122333.3333
+Wells Fargo,Mid (5-10 years),160904.7619
+Wells Fargo,Late (10+ years),211920
+ARM,Grad (0-1 years),137375
+ARM,Early (2-5 years),144586.2069
+ARM,Mid (5-10 years),180148.1481
+ARM,Late (10+ years),242636.3636
+Citrix Systems Inc,Grad (0-1 years),131214.2857
+Citrix Systems Inc,Early (2-5 years),147705.8824
+Citrix Systems Inc,Mid (5-10 years),173850
+Citrix Systems Inc,Late (10+ years),281500
+KPMG,Grad (0-1 years),82153.84615
+KPMG,Early (2-5 years),101380.9524
+KPMG,Mid (5-10 years),151727.2727
+KPMG,Late (10+ years),216066.6667
+BlackRock,Grad (0-1 years),112454.5455
+BlackRock,Early (2-5 years),147148.1481
+BlackRock,Mid (5-10 years),176785.7143
+BlackRock,Late (10+ years),209466.6667
+Mastercard,Grad (0-1 years),110142.8571
+Mastercard,Early (2-5 years),136040
+Mastercard,Mid (5-10 years),167350
+Mastercard,Late (10+ years),210625
+Etsy,Grad (0-1 years),147000
+Etsy,Early (2-5 years),190031.25
+Etsy,Mid (5-10 years),248458.3333
+Etsy,Late (10+ years),278928.5714
+HPE,Grad (0-1 years),112400
+HPE,Early (2-5 years),137055.5556
+HPE,Mid (5-10 years),167000
+HPE,Late (10+ years),219392.8571
+Roblox,Grad (0-1 years),216615.3846
+Roblox,Early (2-5 years),275529.4118
+Roblox,Mid (5-10 years),369318.1818
+Roblox,Late (10+ years),613619.0476
+Squarespace,Grad (0-1 years),163000
+Squarespace,Early (2-5 years),173238.0952
+Squarespace,Mid (5-10 years),188281.25
+Squarespace,Late (10+ years),235000
+Bank of America,Grad (0-1 years),87500
+Bank of America,Early (2-5 years),114782.6087
+Bank of America,Mid (5-10 years),133900
+Bank of America,Late (10+ years),195684.2105
+Bank of America Merrill Lynch,Grad (0-1 years),110625
+Bank of America Merrill Lynch,Early (2-5 years),122470.5882
+Bank of America Merrill Lynch,Mid (5-10 years),160300
+Bank of America Merrill Lynch,Late (10+ years),187909.0909
+Charles Schwab,Grad (0-1 years),84333.33333
+Charles Schwab,Early (2-5 years),139062.5
+Charles Schwab,Mid (5-10 years),141391.3043
+Charles Schwab,Late (10+ years),153105.2632
+Grubhub,Grad (0-1 years),112500
+Grubhub,Early (2-5 years),154181.8182
+Grubhub,Mid (5-10 years),183689.6552
+Grubhub,Late (10+ years),289000
+Red Hat,Grad (0-1 years),109800
+Red Hat,Early (2-5 years),126866.6667
+Red Hat,Mid (5-10 years),192294.1176
+Red Hat,Late (10+ years),212111.1111
+Hulu,Grad (0-1 years),222500
+Hulu,Early (2-5 years),210050
+Hulu,Mid (5-10 years),220878.7879
+Hulu,Late (10+ years),267375
+Blizzard Entertainment,Grad (0-1 years),84500
+Blizzard Entertainment,Early (2-5 years),113062.5
+Blizzard Entertainment,Mid (5-10 years),130782.6087
+Blizzard Entertainment,Late (10+ years),170913.0435
+Roku,Grad (0-1 years),115333.3333
+Roku,Early (2-5 years),233181.8182
+Roku,Mid (5-10 years),312500
+Roku,Late (10+ years),387344.8276
+Rubrik,Grad (0-1 years),180700
+Rubrik,Early (2-5 years),229571.4286
+Rubrik,Mid (5-10 years),356176.4706
+Rubrik,Late (10+ years),430666.6667
+Rally Health,Grad (0-1 years),120000
+Rally Health,Early (2-5 years),156947.3684
+Rally Health,Mid (5-10 years),194285.7143
+Rally Health,Late (10+ years),232000
+Synopsys,Grad (0-1 years),128000
+Synopsys,Early (2-5 years),149705.8824
+Synopsys,Mid (5-10 years),155952.381
+Synopsys,Late (10+ years),236350
+Waymo,Grad (0-1 years),236300
+Waymo,Early (2-5 years),284240
+Waymo,Mid (5-10 years),363523.8095
+Waymo,Late (10+ years),440000
