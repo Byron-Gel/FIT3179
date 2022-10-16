@@ -24,13 +24,13 @@ Amazon,L4,Software Engineer,167000,"Washington, D.C.",2,0
 Amazon,L5,Solution Architect,222000,"Washington, D.C.",18,0
 Amazon,L5,Business Analyst,144000,"Washington, D.C.",3,0
 Amazon,L6,Software Engineer,245000,"Washington, D.C.",30,8
-amazon,L1,Software Engineer,150000,"Washington, D.C.",0,0
+Amazon,L1,Software Engineer,150000,"Washington, D.C.",0,0
 Amazon,L5,Sales,252000,"Washington, D.C.",6,1
-amazon,6,Solution Architect,320000,"Washington, D.C.",10,7
+Amazon,6,Solution Architect,320000,"Washington, D.C.",10,7
 Amazon,L8,Technical Program Manager,620000,"Washington, D.C.",22,2
 Amazon,L5,Technical Program Manager,170000,"Washington, D.C.",10,0
 Amazon,L7,Solution Architect,465000,"Washington, D.C.",30,7
-AMazon,5,Data Scientist,266000,"Washington, D.C.",20,1
+Amazon,5,Data Scientist,266000,"Washington, D.C.",20,1
 Amazon,L6,Solution Architect,270000,"Washington, D.C.",10,1
 Amazon,L5,Software Engineer,251000,"Washington, D.C.",4,4
 Amazon,L4,Software Engineer,156000,"Washington, D.C.",3,2
@@ -118,7 +118,7 @@ Amazon,L4,Software Engineer,191000,Sunnyvale,3,0
 Amazon,L5,Software Engineer,290000,Sunnyvale,12,1
 Amazon,l5,Software Engineer,220000,Sunnyvale,2,1
 Amazon,L6,Hardware Engineer,407000,Sunnyvale,10,4
-amazon,L6,Product Manager,280000,Sunnyvale,20,4
+Amazon,L6,Product Manager,280000,Sunnyvale,20,4
 Amazon,L6 SDM,Software Engineering Manager,465000,Sunnyvale,15,1
 Amazon,L6,Hardware Engineer,400000,Sunnyvale,5,5
 Amazon,L5,Software Engineer,314000,Sunnyvale,5,5
@@ -207,7 +207,7 @@ Amazon,L5,Software Engineer,255000,"Sunnyvale, CA",2,0
 Amazon,L5,Software Engineer,240000,"Sunnyvale, CA",11,1
 Amazon,L5,Hardware Engineer,220000,"Sunnyvale, CA",6,3
 Amazon,L4,Hardware Engineer,210000,"Sunnyvale, CA",5,2
-amazon,6,Solution Architect,320000,"Sunnyvale, CA",15,4
+Amazon,6,Solution Architect,320000,"Sunnyvale, CA",15,4
 Amazon,L5,Software Engineer,220000,"Sunnyvale, CA",4,2
 Amazon,L6,Product Manager,240000,"Sunnyvale, CA",12,2
 Amazon,L5 SDM,Software Engineering Manager,298000,"Sunnyvale, CA",12,3.5
@@ -243,7 +243,7 @@ Amazon,L4,Software Engineer,195000,"Sunnyvale, CA",4,0
 Amazon,L6,Product Manager,295000,"Sunnyvale, CA",12,2
 Amazon,L6,Software Engineer,355000,"Sunnyvale, CA",10,4
 Amazon,L6,Software Engineer,290000,"Sunnyvale, CA",8,7
-amazon,L6,Hardware Engineer,330000,"Sunnyvale, CA",15,7
+Amazon,L6,Hardware Engineer,330000,"Sunnyvale, CA",15,7
 Amazon,L7,Software Engineering Manager,490000,"Sunnyvale, CA",20,2
 Amazon,L7,Software Engineering Manager,665000,"Sunnyvale, CA",16,4
 Amazon,L5,Software Engineer,220000,"Sunnyvale, CA",4,2
@@ -451,7 +451,7 @@ Amazon,L5,Software Engineer,183000,Seattle,11,6.5
 Amazon,SDE 3,Software Engineer,285000,Seattle,5,5
 Amazon,L6,Software Engineering Manager,342000,Seattle,14,7
 Amazon,L8,Product Manager,625000,Seattle,13,2
-amazon,L5,Software Engineer,196000,Seattle,5,0
+Amazon,L5,Software Engineer,196000,Seattle,5,0
 Amazon,L4,Software Engineer,150000,Seattle,0,0
 Amazon,Senior,Software Engineer,200000,Seattle,14,9
 Amazon,L5,Software Engineer,245000,Seattle,10,0
@@ -501,7 +501,7 @@ Amazon,L5,Product Manager,247000,Seattle,5,5
 Amazon,L7,Product Manager,300000,Seattle,15,3
 Amazon,L7,Software Engineer,650000,Seattle,8,8
 Amazon,L5,Software Engineer,220000,Seattle,8,0
-amazon,l7,Product Manager,580000,Seattle,12,10
+Amazon,l7,Product Manager,580000,Seattle,12,10
 Amazon,5,Software Engineer,175000,Seattle,9,2
 Amazon,L5,Product Manager,174000,Seattle,10,1
 Amazon,L6,Software Engineering Manager,300000,Seattle,10,1
@@ -562,13 +562,13 @@ Amazon,L5,Software Engineer,218000,Seattle,5,4
 Amazon,L5,Software Engineer,200000,Seattle,6,0
 Amazon,L6 SDM,Software Engineering Manager,110000,Seattle,10,10
 Amazon,L4,Software Engineer,145000,Seattle,5,1
-amazon,L6,Product Manager,145000,Seattle,12,3
+Amazon,L6,Product Manager,145000,Seattle,12,3
 Amazon,Product Manager,Product Manager,165000,Seattle,7,2
 Amazon,L4,Software Engineer,155000,Seattle,0,0
 Amazon,L5 SDM,Software Engineering Manager,260000,Seattle,11,1
 Amazon,L5,Software Engineer,190000,Seattle,2,2
 Amazon,L6,Product Manager,217000,Seattle,10,4.5
-amazon,L5,Software Engineer,220000,Seattle,11,2
+Amazon,L5,Software Engineer,220000,Seattle,11,2
 Amazon,L4,Software Engineer,145000,Seattle,0,0
 Amazon,SDE I,Software Engineer,151000,Seattle,0,1
 Amazon,L5,Software Engineer,219000,Seattle,12,0
@@ -638,7 +638,7 @@ Amazon,L5,Software Engineer,170000,Seattle,5,2
 Amazon,L5,Software Engineer,212000,Seattle,1,1
 Amazon,L6,Product Manager,300000,Seattle,20,4
 Amazon,7,Product Manager,326000,Seattle,8,6
-amazon,7,Product Manager,350000,Seattle,7,5
+Amazon,7,Product Manager,350000,Seattle,7,5
 Amazon,L7,Software Engineering Manager,460000,Seattle,15,4
 Amazon,L5,Software Engineer,220000,Seattle,8,0
 Amazon,2,Software Engineer,184000,Seattle,4,1
@@ -721,7 +721,7 @@ Amazon,L7,Product Manager,500000,Seattle,19,6
 Amazon,L6,Solution Architect,280000,Seattle,13,2
 Amazon,SDE I,Software Engineer,130000,Seattle,0,0
 Amazon,L6,Software Engineer,300000,Seattle,8,7
-amazon,l5,Software Engineer,165000,Seattle,10,2
+Amazon,l5,Software Engineer,165000,Seattle,10,2
 Amazon,L4,Software Engineer,125000,Seattle,1,1.5
 Amazon,L6 SDM,Software Engineering Manager,262000,Seattle,6,3
 Amazon,L6,Product Manager,187000,Seattle,1,1
@@ -840,13 +840,13 @@ Amazon,L7,Software Engineering Manager,605000,Seattle,20,3
 Amazon,SDE II,Software Engineer,186000,Seattle,9,0
 Amazon,L4,Software Engineer,144000,Seattle,1,1
 Amazon,L7,Product Manager,450000,Seattle,15,14
-amazon,l5,Software Engineer,150000,Seattle,6,6
+Amazon,l5,Software Engineer,150000,Seattle,6,6
 Amazon,L6,Software Engineering Manager,245000,Seattle,7,7
 Amazon,L5,Software Engineer,180000,Seattle,1,1
 Amazon,L5,Software Engineer,207000,Seattle,3,3
 Amazon,L6 SDM,Software Engineering Manager,285000,Seattle,9,2
 Amazon,L6 SDM,Software Engineering Manager,285000,Seattle,9,2
-amazon,l5,Software Engineer,200000,Seattle,10,10
+Amazon,l5,Software Engineer,200000,Seattle,10,10
 Amazon,L5,Software Engineer,174000,Seattle,1,1
 Amazon,L6 SDM,Software Engineering Manager,377000,Seattle,25,8
 Amazon,L6 SDM,Software Engineering Manager,377000,Seattle,25,8
@@ -898,7 +898,7 @@ Amazon,L5,Software Engineer,235000,Seattle,4,4
 Amazon,L5,Software Engineer,235000,Seattle,4,4
 Amazon,L6,Product Manager,250000,Seattle,6,4
 Amazon,L6,Software Engineer,307000,Seattle,8,8
-amazon,L6,Software Engineering Manager,400000,Seattle,15,1
+Amazon,L6,Software Engineering Manager,400000,Seattle,15,1
 Amazon,L6,Software Engineer,381000,Seattle,10,4
 Amazon,L4,Software Engineer,170000,Seattle,2,2
 Amazon,L5,Management Consultant,128000,Seattle,10,0
@@ -958,7 +958,7 @@ Amazon,L5,Recruiter,116000,Seattle,6,1
 Amazon,L5,Software Engineer,251000,Seattle,3,0
 Amazon,L5,Software Engineer,216000,Seattle,4,4
 Amazon,L6,Solution Architect,242000,Seattle,10,3
-amazon,l4,Business Analyst,77000,Seattle,2,1
+Amazon,l4,Business Analyst,77000,Seattle,2,1
 Amazon,L5,Software Engineer,240000,Seattle,3,3
 Amazon,Senior Product Manager,Product Manager,180000,Seattle,3,0
 Amazon,L5,Product Manager,171000,Seattle,5,1
@@ -1048,7 +1048,7 @@ Amazon,L4,Software Engineer,152000,Seattle,4,1
 Amazon,L4,Software Engineer,173000,Seattle,0,0
 Amazon,L5,Product Manager,210000,Seattle,6,6
 Amazon,L6,Hardware Engineer,430000,Seattle,16,2
-amazon,L6,Software Engineering Manager,360000,Seattle,15,10
+Amazon,L6,Software Engineering Manager,360000,Seattle,15,10
 Amazon,L5,Business Analyst,160000,Seattle,8,2
 Amazon,L4,Software Engineer,178000,Seattle,2,2
 Amazon,L5,Data Scientist,193000,Seattle,6,4
@@ -1129,7 +1129,7 @@ Amazon,L6,Product Manager,360000,Seattle,15,3
 Amazon,L5,Business Analyst,115000,Seattle,6,1
 Amazon,SDE II,Software Engineer,210000,Seattle,4,4
 Amazon,L5,Software Engineer,287000,Seattle,6,2
-amazon,L6,Software Engineering Manager,350000,Seattle,13,10
+Amazon,L6,Software Engineering Manager,350000,Seattle,13,10
 Amazon,L5,Technical Program Manager,223000,Seattle,3,0
 Amazon,L5,Marketing,135000,Seattle,8,4
 Amazon,L7,Hardware Engineer,492000,Seattle,30,0
@@ -1338,7 +1338,7 @@ Amazon,L6,Software Engineer,334000,Seattle,13,13
 Amazon,L5,Software Engineer,265000,Seattle,3,0
 Amazon,L5,Software Engineer,220000,Seattle,10,5
 Amazon,L6,Product Manager,267000,Seattle,12,5
-amazon,sde1,Software Engineer,152000,Seattle,2,2
+Amazon,sde1,Software Engineer,152000,Seattle,2,2
 Amazon,L6,Product Manager,550000,Seattle,6,2
 Amazon,L4,Data Scientist,179000,Seattle,2,1
 Amazon,L5,Software Engineer,235000,Seattle,4,0
@@ -1529,7 +1529,7 @@ Amazon,L7,Data Scientist,740000,Seattle,12,7
 Amazon,L6,Software Engineer,291000,Seattle,9,8
 Amazon,L4,Software Engineer,144000,Seattle,0.6,0
 Amazon,L5 SDM,Software Engineering Manager,184000,Seattle,3,2.5
-amazon,L7,Product Manager,300000,Seattle,18,1
+Amazon,L7,Product Manager,300000,Seattle,18,1
 Amazon,L4,Software Engineer,140000,Seattle,5,0
 Amazon,L6,Product Manager,207000,Seattle,6,1
 Amazon,L5,Software Engineer,185000,Seattle,3,1.5
@@ -1564,7 +1564,7 @@ Amazon,L4,Software Engineer,152000,Seattle,3,0
 Amazon,L5,Product Manager,173000,Seattle,10,1
 Amazon,L6,Product Manager,181000,Seattle,9,2
 Amazon,L5,Software Engineer,213000,Seattle,6,4
-amazon,sde2,Software Engineer,170000,Seattle,2,2
+Amazon,sde2,Software Engineer,170000,Seattle,2,2
 Amazon,L5,Software Engineer,290000,"Seattle, WA",13,2
 Amazon,L6,Software Engineer,250000,"Seattle, WA",10,4
 Amazon,L5,Software Engineering Manager,250000,"Seattle, WA",15,3
@@ -1603,7 +1603,7 @@ Amazon,L5,Product Manager,106000,"Seattle, WA",10,2
 Amazon,SDE I,Software Engineer,136000,"Seattle, WA",0,0
 Amazon,L5,Software Engineer,193000,"Seattle, WA",6,1
 Amazon,L5,Software Engineer,200000,"Seattle, WA",5,0
-amazon,L7,Software Engineering Manager,780000,"Seattle, WA",18,14
+Amazon,L7,Software Engineering Manager,780000,"Seattle, WA",18,14
 Amazon,L4,Software Engineer,132000,"Seattle, WA",2,2
 Amazon,L6,Product Manager,254000,"Seattle, WA",10,5
 Amazon,L6,Product Manager,230000,"Seattle, WA",5,0
@@ -1781,7 +1781,7 @@ Amazon,SDE II,Software Engineer,220000,"Seattle, WA",3,0
 Amazon,L5,Software Engineer,199000,"Seattle, WA",3,3
 Amazon,L5,Software Engineer,185000,"Seattle, WA",3,3
 Amazon,L6,Solution Architect,190000,"Seattle, WA",10,1
-amazon,L5,Software Engineer,230000,"Seattle, WA",6,3
+Amazon,L5,Software Engineer,230000,"Seattle, WA",6,3
 Amazon,L6,Product Manager,210000,"Seattle, WA",5,2
 Amazon,L6,Product Manager,210000,"Seattle, WA",5,2
 Amazon,L4,Software Engineer,150000,"Seattle, WA",0,0
@@ -1941,7 +1941,7 @@ Amazon,L5,Software Engineer,250000,"Seattle, WA",6,2
 Amazon,L6,Software Engineer,302000,"Seattle, WA",16,10
 Amazon,L5,Software Engineer,187000,"Seattle, WA",4,2
 Amazon,L4,Software Engineer,166000,"Seattle, WA",0,0
-AMAZON,4,Data Scientist,70000,"Seattle, WA",0,0
+Amazon,4,Data Scientist,70000,"Seattle, WA",0,0
 Amazon,L6,Solution Architect,250000,"Seattle, WA",12,0
 Amazon,L7,Product Manager,299000,"Seattle, WA",16,3
 Amazon,L5,Software Engineer,205000,"Seattle, WA",5,3
@@ -2123,7 +2123,7 @@ Amazon,L6,Software Engineer,241000,"Seattle, WA",9,5
 Amazon,L6,Software Engineer,400000,"Seattle, WA",16,3
 Amazon,SDE II,Software Engineer,196000,"Seattle, WA",2,2
 Amazon,L6,Product Manager,225000,"Seattle, WA",10,4
-amazon,6,Product Manager,229000,"Seattle, WA",4,2
+Amazon,6,Product Manager,229000,"Seattle, WA",4,2
 Amazon,L5,Hardware Engineer,120000,"Seattle, WA",3,0
 Amazon,L5,Software Engineer,207000,"Seattle, WA",3,3
 Amazon,L7,Software Engineer,520000,"Seattle, WA",20,8
@@ -2254,7 +2254,7 @@ Amazon,L4,Software Engineer,142000,"Seattle, WA",0,0
 Amazon,L5,Product Manager,164000,"Seattle, WA",4,2.5
 Amazon,L4,Software Engineer,128000,"Seattle, WA",1,1
 Amazon,L5,Product Designer,184000,"Seattle, WA",5,1
-AMazon,5,Software Engineer,193000,"Seattle, WA",7,2
+Amazon,5,Software Engineer,193000,"Seattle, WA",7,2
 Amazon,SDE III,Software Engineer,480000,"Seattle, WA",11,7
 Amazon,L4,Software Engineer,198000,"Seattle, WA",0,0
 Amazon,L5,Software Engineer,206000,"Seattle, WA",3,3
@@ -2298,7 +2298,7 @@ Amazon,L6,Software Engineer,250000,"Seattle, WA",6,6
 Amazon,L4,Software Engineer,222000,"Seattle, WA",0,0
 Amazon,L5,Software Engineer,200000,"Seattle, WA",8,4
 Amazon,SDE II,Software Engineer,265000,"Seattle, WA",4,0
-amazon,l5,Product Designer,185000,"Seattle, WA",10,5
+Amazon,l5,Product Designer,185000,"Seattle, WA",10,5
 Amazon,L5,Software Engineer,190000,"Seattle, WA",3,3
 Amazon,L6,Product Manager,175000,"Seattle, WA",4,4
 Amazon,L6,Product Manager,145000,"Seattle, WA",8,2
@@ -2487,7 +2487,7 @@ Amazon,L4,Data Scientist,123000,"Seattle, WA",2,2
 Amazon,L6,Product Manager,255000,"Seattle, WA",15,2
 Amazon,SDE III,Software Engineer,310000,"Seattle, WA",9,6
 Amazon,L6,Product Manager,237000,"Seattle, WA",4,0
-amazon,L5,Software Engineer,220000,"Seattle, WA",6,4
+Amazon,L5,Software Engineer,220000,"Seattle, WA",6,4
 Amazon,L5,Software Engineer,205000,"Seattle, WA",7,1
 Amazon,L6,Product Designer,231000,"Seattle, WA",15,4
 Amazon,L6 SDM,Software Engineering Manager,365000,"Seattle, WA",20,2
@@ -2524,9 +2524,9 @@ Amazon,SDE III,Software Engineer,295000,"Seattle, WA",3,2
 Amazon,L7,Data Scientist,540000,"Seattle, WA",10,3
 Amazon,SDE II,Software Engineer,237000,"Seattle, WA",15,3
 Amazon,L5,Software Engineer,211000,"Seattle, WA",10,3
-amazon,5,Software Engineer,180000,"Seattle, WA",7,3
+Amazon,5,Software Engineer,180000,"Seattle, WA",7,3
 Amazon,L4,Software Engineer,170000,"Seattle, WA",1,1
-amazon,5,Software Engineer,260000,"Seattle, WA",5,5
+Amazon,5,Software Engineer,260000,"Seattle, WA",5,5
 Amazon,L5,Software Engineer,197000,"Seattle, WA",3,3
 Amazon,L4,Software Engineer,130000,"Seattle, WA",0,0
 Amazon,L4,Software Engineer,140000,"Seattle, WA",2,2
@@ -2548,7 +2548,7 @@ Amazon,L5,Software Engineer,142000,"Seattle, WA",3,3
 Amazon,L6 SDM,Software Engineering Manager,300000,"Seattle, WA",13,7
 Amazon,L4,Software Engineer,130000,"Seattle, WA",3,2
 Amazon,L5,Software Engineer,210000,"Seattle, WA",5,5
-amazon,l4,Software Engineer,135000,"Seattle, WA",5,1
+Amazon,l4,Software Engineer,135000,"Seattle, WA",5,1
 Amazon,L4,Software Engineer,175000,"Seattle, WA",3,0
 Amazon,L6,Software Engineer,230000,"Seattle, WA",9,2
 Amazon,L5,Product Designer,220000,"Seattle, WA",5,5
@@ -2586,7 +2586,7 @@ Amazon,L7,Product Manager,400000,"Seattle, WA",15,8
 Amazon,6,Product Manager,216000,"Seattle, WA",3,3
 Amazon,L4,Software Engineer,170000,"Seattle, WA",2,0
 Amazon,L5,Software Engineer,215000,"Seattle, WA",5,4
-amazon,L5,Software Engineer,180000,"Seattle, WA",5,3
+Amazon,L5,Software Engineer,180000,"Seattle, WA",5,3
 Amazon,SDE II,Software Engineer,150000,"Seattle, WA",0,0
 Amazon,L6,Software Engineering Manager,256000,"Seattle, WA",20,2
 Amazon,L5,Software Engineer,210000,"Seattle, WA",3,3
@@ -2754,7 +2754,7 @@ Amazon,L5,Software Engineer,198000,"Seattle, WA",3,3
 Amazon,L6,Software Engineer,350000,"Seattle, WA",7,0
 Amazon,L4,Software Engineer,172000,"Seattle, WA",1,1
 Amazon,L5,Software Engineer,222000,"Seattle, WA",4,4
-amazon,L7,Software Engineering Manager,585000,"Seattle, WA",18,0
+Amazon,L7,Software Engineering Manager,585000,"Seattle, WA",18,0
 Amazon,L5,Software Engineer,222000,"Seattle, WA",6,3
 Amazon,L5,Software Engineer,193000,"Seattle, WA",4,4
 Amazon,SDE II,Software Engineer,188000,"Seattle, WA",6,4
@@ -2936,7 +2936,7 @@ Amazon,L5,Software Engineer,196000,"Seattle, WA",7,2
 Amazon,L7,Product Manager,365000,"Seattle, WA",15,1
 Amazon,L6,Product Manager,220000,"Seattle, WA",7,3
 Amazon,L4,Software Engineer,149000,"Seattle, WA",2,2
-amazon,L5,Software Engineer,257000,"Seattle, WA",6,1
+Amazon,L5,Software Engineer,257000,"Seattle, WA",6,1
 Amazon,L6,Software Engineering Manager,510000,"Seattle, WA",15,3
 Amazon,L7,Software Engineer,540000,"Seattle, WA",10,10
 Amazon,SDE I,Software Engineer,157000,"Seattle, WA",1,1
@@ -2946,7 +2946,7 @@ Amazon,L5,Software Engineer,256000,"Seattle, WA",4,4
 Amazon,L4,Software Engineer,152000,"Seattle, WA",4,0
 Amazon,L5,Software Engineer,208000,"Seattle, WA",3,3
 Amazon,L6,Product Manager,272000,"Seattle, WA",8,3
-amazon,l5,Software Engineer,232000,"Seattle, WA",4,4
+Amazon,l5,Software Engineer,232000,"Seattle, WA",4,4
 Amazon,L4,Software Engineer,140000,"Seattle, WA",0,0
 Amazon,SDE III,Software Engineer,380000,"Seattle, WA",15,5
 Amazon,SDE II,Software Engineer,220000,"Seattle, WA",4,4
@@ -3015,7 +3015,7 @@ Amazon,Level 5,Software Engineer,157000,"Seattle, WA",10,1
 Amazon,L6,Technical Program Manager,241000,"Seattle, WA",14,4
 Amazon,L7,Software Engineering Manager,500000,"Seattle, WA",25,5
 Amazon,L5,Software Engineer,243000,"Seattle, WA",6,0
-amazon,PM ll,Product Manager,185000,"Seattle, WA",6,3
+Amazon,PM ll,Product Manager,185000,"Seattle, WA",6,3
 Amazon,L4,Software Engineer,172000,"Seattle, WA",3,3
 Amazon,L6 SDM,Software Engineering Manager,330000,"Seattle, WA",15,3
 Amazon,L4,Data Scientist,140000,"Seattle, WA",2,1
@@ -3246,7 +3246,7 @@ Amazon,L6,Software Engineering Manager,320000,"Seattle, WA",20,6
 Amazon,L3,Software Engineer,208000,"Seattle, WA",2,0
 Amazon,L5,Business Analyst,80000,"Seattle, WA",1,1
 Amazon,L5,Software Engineer,221000,"Seattle, WA",2,2
-amazon,L5,Software Engineer,223000,"Seattle, WA",5,3
+Amazon,L5,Software Engineer,223000,"Seattle, WA",5,3
 Amazon,L5,Software Engineer,220000,"Seattle, WA",5,5
 Amazon,L7,Software Engineering Manager,460000,"Seattle, WA",17,7
 Amazon,L6,Business Analyst,178000,"Seattle, WA",9,0
@@ -3424,7 +3424,7 @@ Amazon,SDE I,Software Engineer,160000,"Seattle, WA",1,0
 Amazon,L6,Business Analyst,230000,"Seattle, WA",8,0
 Amazon,L6,Product Manager,230000,"Seattle, WA",6,2
 Amazon,L6,Business Analyst,230000,"Seattle, WA",8,0
-amazon,L5,Technical Program Manager,185000,"Seattle, WA",10,2
+Amazon,L5,Technical Program Manager,185000,"Seattle, WA",10,2
 Amazon,L4,Software Engineer,125000,"Seattle, WA",1,0
 Amazon,L5,Software Engineer,220000,"Seattle, WA",10,10
 Amazon,L5,Data Scientist,300000,"Seattle, WA",7,7
@@ -3464,7 +3464,7 @@ Amazon,L4,Software Engineer,157000,"Seattle, WA",0,0
 Amazon,L5,Software Engineer,282000,"Seattle, WA",3,0
 Amazon,L6,Product Manager,333000,"Seattle, WA",14,4
 Amazon,L5,Recruiter,130000,"Seattle, WA",3,3
-amazon,L7,Marketing,329000,"Seattle, WA",25,0
+Amazon,L7,Marketing,329000,"Seattle, WA",25,0
 Amazon,L4,Software Engineer,168000,"Seattle, WA",3,0
 Amazon,L4,Software Engineer,158000,"Seattle, WA",0,0
 Amazon,L6,Product Designer,272000,"Seattle, WA",15,4
@@ -3552,7 +3552,7 @@ Amazon,L6,Technical Program Manager,250000,"Seattle, WA",10,1
 Amazon,L7,Software Engineering Manager,800000,"Seattle, WA",28,1
 Amazon,L5,Software Engineer,200000,"Seattle, WA",13,10
 Amazon,L5,Data Scientist,240000,"Seattle, WA",7,5
-amazon,L5,Software Engineer,190000,"Seattle, WA",5,1
+Amazon,L5,Software Engineer,190000,"Seattle, WA",5,1
 Amazon,L3,Software Engineer,170000,"Seattle, WA",1,0
 Amazon,L5,Business Analyst,106000,"Seattle, WA",5,1
 Amazon,SDE I,Software Engineer,179000,"Seattle, WA",3,0
@@ -3610,14 +3610,14 @@ Amazon,L5,Product Designer,196000,"Seattle, WA",8,0
 Amazon,L6,Software Engineer,425000,"Seattle, WA",12,10
 Amazon,L6,Human Resources,250000,"Seattle, WA",12,8
 Amazon,L6,Marketing,204000,"Seattle, WA",8,5
-amazon,L6,Technical Program Manager,196000,"Seattle, WA",12,3
+Amazon,L6,Technical Program Manager,196000,"Seattle, WA",12,3
 Amazon,L6,Software Engineering Manager,343000,"Seattle, WA",24,7
 Amazon,L7,Technical Program Manager,300000,"Seattle, WA",8,5
 Amazon,L5,Software Engineer,252000,"Seattle, WA",3,0
 Amazon,L4,Business Analyst,85000,"Seattle, WA",1,0
 Amazon,L5,Software Engineer,205000,"Seattle, WA",4,1
 Amazon,L6,Software Engineer,280000,"Seattle, WA",12,4
-amazon,L6,Technical Program Manager,250000,"Seattle, WA",20,3
+Amazon,L6,Technical Program Manager,250000,"Seattle, WA",20,3
 Amazon,L5,Data Scientist,150000,"Seattle, WA",4,1
 Amazon,L7,Product Manager,310000,"Seattle, WA",15,5
 Amazon,L7,Data Scientist,600000,"Seattle, WA",20,0
@@ -3734,7 +3734,7 @@ Amazon,L6,Software Engineer,363000,"Seattle, WA",5,0
 Amazon,L6,Product Manager,183000,"Seattle, WA",9,7
 Amazon,L4,Business Analyst,130000,"Seattle, WA",5,0
 Amazon,L6,Data Scientist,240000,"Seattle, WA",6,4
-amazon,6,Software Engineering Manager,300000,"Seattle, WA",10,6
+Amazon,6,Software Engineering Manager,300000,"Seattle, WA",10,6
 Amazon,L5,Software Engineer,192000,"Seattle, WA",12,2
 Amazon,L4,Sales,131000,"Seattle, WA",2,2
 Amazon,L5,Data Scientist,180000,"Seattle, WA",4,0
@@ -3754,7 +3754,7 @@ Amazon,SDE I,Software Engineer,168000,"Seattle, WA",1,0
 Amazon,L4,Business Analyst,53000,"Seattle, WA",5,3
 Amazon,SDE I,Software Engineer,145000,"Seattle, WA",0,0
 Amazon,L5,Data Scientist,213000,"Seattle, WA",10,10
-AMAZON,L6,Software Engineer,245000,"Seattle, WA",6,4
+Amazon,L6,Software Engineer,245000,"Seattle, WA",6,4
 Amazon,SDE I,Software Engineer,150000,"Seattle, WA",0,0
 Amazon,L6,Hardware Engineer,236000,"Seattle, WA",18,3
 Amazon,L4,Software Engineer,152000,"Seattle, WA",0,0
@@ -3767,7 +3767,7 @@ Amazon,L6,Data Scientist,270000,"Seattle, WA",5,4
 Amazon,L6,Product Designer,234000,"Seattle, WA",9,3
 Amazon,L6,Marketing,177000,"Seattle, WA",10,6
 Amazon,L6,Product Manager,208000,"Seattle, WA",13,1
-amazon,l5,Software Engineer,185000,"Seattle, WA",5,2
+Amazon,l5,Software Engineer,185000,"Seattle, WA",5,2
 Amazon,L4,Software Engineer,174000,"Seattle, WA",5,1
 Amazon,L4,Software Engineer,147000,"Seattle, WA",3,0
 Amazon,L4,Software Engineer,149000,"Seattle, WA",2,2
@@ -3877,7 +3877,7 @@ Amazon,L5,Software Engineer,223000,"Seattle, WA",8,0
 Amazon,L6,Software Engineer,254000,"Seattle, WA",15,5
 Amazon,SDE II,Software Engineer,185000,"Seattle, WA",2,2
 Amazon,L7,Software Engineering Manager,608000,"Seattle, WA",19,8
-amazon,L5,Data Scientist,150000,"Seattle, WA",5,1
+Amazon,L5,Data Scientist,150000,"Seattle, WA",5,1
 Amazon,L5,Software Engineer,200000,"Seattle, WA",4,4
 Amazon,L5,Software Engineer,244000,"Seattle, WA",4,4
 Amazon,L6,Human Resources,214000,"Seattle, WA",12,5
@@ -3956,7 +3956,7 @@ Amazon,L7,Technical Program Manager,298000,"Seattle, WA",25,0
 Amazon,L6,Software Engineer,330000,"Seattle, WA",22,5
 Amazon,L6,Product Designer,223000,"Seattle, WA",8,0
 Amazon,L6,Product Manager,211000,"Seattle, WA",10,6
-amazon,l6,Data Scientist,300000,"Seattle, WA",5,5
+Amazon,l6,Data Scientist,300000,"Seattle, WA",5,5
 Amazon,L6,Software Engineer,170000,"Seattle, WA",15,2
 Amazon,L5,Software Engineer,276000,"Seattle, WA",6,0
 Amazon,L4,Software Engineer,182000,"Seattle, WA",2,0
@@ -4084,7 +4084,7 @@ Amazon,L6,Human Resources,240000,"Seattle, WA",15,10
 Amazon,L4,Software Engineer,159000,"Seattle, WA",1,1
 Amazon,L5,Software Engineer,205000,"Seattle, WA",5,3
 Amazon,L6,Technical Program Manager,264000,"Seattle, WA",15,11
-amazon,L6,Recruiter,180000,"Seattle, WA",15,6
+Amazon,L6,Recruiter,180000,"Seattle, WA",15,6
 Amazon,L5,Software Engineer,220000,"Seattle, WA",7,3
 Amazon,L4,Software Engineer,227000,"Seattle, WA",4,3
 Amazon,L4,Sales,161000,"Seattle, WA",4,1
@@ -4168,7 +4168,7 @@ Amazon,Senior SDE,Software Engineer,315000,"Seattle, WA",10,6
 Amazon,SDE I,Software Engineer,150000,"Seattle, WA",0,0
 Amazon,L5,Technical Program Manager,205000,"Seattle, WA",7,0
 Amazon,L7,Human Resources,450000,"Seattle, WA",15,2
-amazon,6,Product Manager,200000,"Seattle, WA",7,3
+Amazon,6,Product Manager,200000,"Seattle, WA",7,3
 Amazon,L7,Software Engineering Manager,550000,"Seattle, WA",15,2
 Amazon,L4,Software Engineer,144000,"Seattle, WA",0,0
 Amazon,L6,Product Manager,295000,"Seattle, WA",13,1
@@ -4403,7 +4403,7 @@ Amazon,L6,Technical Program Manager,300000,"Seattle, WA",9,0
 Amazon,L4,Software Engineer,146000,"Seattle, WA",1,1
 Amazon,L5,Software Engineer,270000,"Seattle, WA",15,5
 Amazon,Principal SDE,Software Engineer,600000,"Seattle, WA",20,4
-amazon,L5,Software Engineer,256000,"Seattle, WA",5,1
+Amazon,L5,Software Engineer,256000,"Seattle, WA",5,1
 Amazon,L5,Software Engineer,289000,"Seattle, WA",9,0
 Amazon,L6,Software Engineering Manager,385000,"Seattle, WA",8,7
 Amazon,L7,Technical Program Manager,330000,"Seattle, WA",10,5
@@ -4739,7 +4739,7 @@ Amazon,L6,Product Designer,282000,"Seattle, WA",14,0
 Amazon,L6,Product Manager,202000,"Seattle, WA",6,4
 Amazon,L4,Software Engineer,197000,"Seattle, WA",2,0
 Amazon,L4,Software Engineer,250000,"Seattle, WA",5,3
-AMAZON,L1,Software Engineer,150000,"Seattle, WA",2,2
+Amazon,L1,Software Engineer,150000,"Seattle, WA",2,2
 Amazon,L7,Marketing,313000,"Seattle, WA",12,4
 Amazon,L4,Software Engineer,237000,"Seattle, WA",0,0
 Amazon,L6,Product Manager,189000,"Seal Beach, CA",12,5
@@ -4838,7 +4838,7 @@ Amazon,L4,Software Engineer,181000,San Francisco,1,0
 Amazon,L5,Software Engineer,250000,San Francisco,14,5
 Amazon,SDE II,Software Engineer,250000,San Francisco,14,0
 Amazon,L5,Software Engineer,218000,San Francisco,6,5
-amazon,l6,Software Engineer,410000,San Francisco,11,4
+Amazon,l6,Software Engineer,410000,San Francisco,11,4
 Amazon,L6,Software Engineering Manager,415000,San Francisco,12,4
 Amazon,L5,Software Engineer,268000,San Francisco,3,3
 Amazon,L6,Software Engineer,370000,San Francisco,12,2
@@ -4886,7 +4886,7 @@ Amazon,L5,Software Engineer,216000,San Francisco,17,1
 Amazon,L5,Software Engineer,311000,San Francisco,10,4
 Amazon,Sde2,Software Engineer,275000,"San Francisco, CA",12,2
 Amazon,L5,Software Engineer,248000,"San Francisco, CA",4,4
-AMAZON,4,Data Scientist,178000,"San Francisco, CA",2,0
+Amazon,4,Data Scientist,178000,"San Francisco, CA",2,0
 Amazon,L5,Solution Architect,186000,"San Francisco, CA",14,2
 Amazon,L5,Software Engineer,200000,"San Francisco, CA",5,5
 Amazon,Sales Leader,Sales,300000,"San Francisco, CA",25,1
@@ -5087,7 +5087,7 @@ Amazon,L6,Software Engineer,510000,"San Francisco, CA",10,0
 Amazon,L6,Product Manager,250000,"San Francisco, CA",7,7
 Amazon,L6 SDM,Software Engineering Manager,475000,"San Francisco, CA",20,0
 Amazon,L5,Software Engineer,222000,"San Francisco, CA",2,2
-amazon,L4,Software Engineer,178000,"San Francisco, CA",0,0
+Amazon,L4,Software Engineer,178000,"San Francisco, CA",0,0
 Amazon,L6,Software Engineer,340000,"San Francisco, CA",11,10
 Amazon,SDE I,Software Engineer,177000,"San Francisco, CA",0,0
 Amazon,L6 SDM,Software Engineering Manager,489000,"San Francisco, CA",5,0
@@ -5282,7 +5282,7 @@ Amazon,L6,Solution Architect,239000,"Philadelphia, PA",4,0
 Amazon,L6,Solution Architect,240000,"Philadelphia, PA",5,0
 Amazon,L5,Solution Architect,225000,"Philadelphia, PA",5,0
 Amazon,L5,Software Engineer,189000,"Peterborough, NH",27,7
-amazon,L5,Software Engineer,235000,Palo Alto,3,0
+Amazon,L5,Software Engineer,235000,Palo Alto,3,0
 Amazon,L5,Software Engineer,275000,Palo Alto,3,3
 Amazon,L4,Software Engineer,155000,Palo Alto,2,1
 Amazon,L4,Software Engineer,180000,Palo Alto,0,1
@@ -5414,7 +5414,7 @@ Amazon,L5,Software Engineer,228000,"Palo Alto, CA",8,5
 Amazon,L6,Software Engineer,550000,"Palo Alto, CA",15,4
 Amazon,5,Product Designer,195000,"Palo Alto, CA",7,1
 Amazon,L6,Software Engineer,260000,"Palo Alto, CA",5,1
-amazon,sde 2,Software Engineer,263000,"Palo Alto, CA",8,6
+Amazon,sde 2,Software Engineer,263000,"Palo Alto, CA",8,6
 Amazon,L5,Software Engineer,271000,"Palo Alto, CA",8,2
 Amazon,L4,Software Engineer,181000,"Palo Alto, CA",0,0
 Amazon,L5,Product Manager,210000,"Palo Alto, CA",7,0
@@ -5702,7 +5702,7 @@ Amazon,L6,Product Manager,200000,"New York, NY",9,2
 Amazon,L4,Software Engineer,182000,"New York, NY",1,0
 Amazon,SDE II,Software Engineer,270000,"New York, NY",9,0
 Amazon,L4,Software Engineer,194000,"New York, NY",1,0
-amazon,L4,Software Engineer,190000,"New York, NY",1,0
+Amazon,L4,Software Engineer,190000,"New York, NY",1,0
 Amazon,L5,Software Engineer,207000,"New York, NY",2,2
 Amazon,L5,Software Engineer,288000,"New York, NY",12,0
 Amazon,L6,Software Engineer,340000,"New York, NY",13,1
@@ -6192,7 +6192,7 @@ Amazon,SDE I,Software Engineer,166000,"Herndon, VA",2,0
 Amazon,L4,Software Engineer,149000,"Herndon, VA",0,0
 Amazon,L5,Software Engineer,185000,"Herndon, VA",5,0
 Amazon,L6,Solution Architect,281000,"Herndon, VA",16,0
-amazon,l4,Software Engineer,200000,"Herndon, VA",0,0
+Amazon,l4,Software Engineer,200000,"Herndon, VA",0,0
 Amazon,L4,Software Engineer,144000,"Herndon, VA",0,0
 Amazon,L4,Software Engineer,155000,"Herndon, VA",1,1
 Amazon,L5,Software Engineer,295000,"Herndon, VA",13,0
@@ -6204,7 +6204,7 @@ Amazon,L4,Software Engineer,150000,"Herndon, VA",0,0
 Amazon,L6 SDM,Software Engineering Manager,330000,"Herndon, VA",20,2
 Amazon,L4,Software Engineer,168000,"Herndon, VA",0,0
 Amazon,L4,Software Engineer,148000,"Herndon, VA",1,1
-amazon,l5,Software Engineer,208000,"Herndon, VA",4,0
+Amazon,l5,Software Engineer,208000,"Herndon, VA",4,0
 Amazon,SDE I,Software Engineer,161000,"Herndon, VA",0,0
 Amazon,L5,Technical Program Manager,190000,"Herndon, VA",15,0
 Amazon,L4,Software Engineer,143000,"Herndon, VA",1,1
@@ -6468,7 +6468,7 @@ Amazon,L5,Software Engineer,210000,Boulder,3,2
 Amazon,L5,Software Engineer,235000,"Boulder, CO",4,0
 Amazon,SDE I,Software Engineer,165000,"Boulder, CO",2,0
 Amazon,SDE II,Software Engineer,277000,"Boulder, CO",6,0
-amazon,6,Software Engineering Manager,275000,"Boulder, CO",20,1
+Amazon,6,Software Engineering Manager,275000,"Boulder, CO",20,1
 Amazon,L5,Software Engineer,183000,"Boulder, CO",3,0
 Amazon,Principal SDE,Software Engineer,441000,"Boulder, CO",20,5
 Amazon,L5,Software Engineer,227000,"Boulder, CO",3,1
@@ -6524,7 +6524,7 @@ Amazon,L6,Software Engineering Manager,315000,"Boston, MA",15,2
 Amazon,L5,Software Engineer,220000,"Boston, MA",5,2
 Amazon,L6,Product Manager,265000,"Boston, MA",10,3
 Amazon,L6,Software Engineer,250000,"Boston, MA",12,3
-amazon,L5,Software Engineer,180000,"Boston, MA",8,8
+Amazon,L5,Software Engineer,180000,"Boston, MA",8,8
 Amazon,L5,Software Engineer,225000,"Boston, MA",8,3
 Amazon,L5,Software Engineer,200000,"Boston, MA",6,3
 Amazon,L5,Software Engineer,230000,"Boston, MA",2,0
@@ -6957,34 +6957,34 @@ Amazon,L4,Business Analyst,65000,Arizona City,16,2
 Amazon,L5,Business Analyst,170000,"Arizona City, AZ",11,2
 Amazon,L1,Data Scientist,126000,"Antioch, TN",1,1
 Amazon,L3,Product Designer,135000,Aliso Viejo,14,1
-Amazon Web Services,L6,Solution Architect,225000,"Washington, D.C.",15,3
-Amazon Web Services,L6,Software Engineer,250000,Seattle,8,6
-Amazon Web Services,L5,Data Scientist,300000,"Seattle, WA",4,1
-Amazon Web Services,L5,Software Engineer,235000,"Seattle, WA",5,3
-Amazon web services,5,Sales,225000,"Seattle, WA",4,4
-Amazon Web Services,L5,Product Manager,210000,"Seattle, WA",4,2
-Amazon Web Services,L6,Solution Architect,210000,"Seattle, WA",7,3
-Amazon Web Services,L4,Marketing,103000,"Seattle, WA",1,0
-Amazon Web Services,L4,Marketing,112000,"San Francisco, CA",5,5
-Amazon Web Services,L5,Software Engineer,250000,"San Francisco, CA",15,2
-Amazon Web Services,L4,Software Engineer,150000,"Providence, RI",1,1
-Amazon Web Services,L6,Solution Architect,340000,"Portland, OR",10,4
-Amazon web services,L5,Software Engineer,230000,Palo Alto,3,3
-Amazon web services,6,Solution Architect,250000,"New York, NY",12,3
-Amazon Web Services,L7,Solution Architect,425000,"New York, NY",15,1
-Amazon Web Services,L5,Solution Architect,212000,Los Angeles,15,1
-Amazon Web Services,L6,Solution Architect,416000,"Los Angeles, CA",10,4
-Amazon Web Services,L6,Solution Architect,250000,"Austin, TX",20,2
-Amazon Web Services,L4,Solution Architect,125000,"Austin, TX",0,0
-Amazon Web Services,6,Sales,300000,"Arlington, VA",13,1
-Amazon.com,L5,Product Manager,120000,Seattle,10,10
-Amazon.com,L5,Data Scientist,163000,Seattle,10,10
-Amazon.com,L5,Software Engineer,242000,"Seattle, WA",4,4
-Amazon.com,L6,Product Manager,200000,"Seattle, WA",3,5
-Amazon.com,L6,Software Engineer,392000,"Seattle, WA",20,5
-Amazon.com,L5,Technical Program Manager,180000,"Seattle, WA",7,0
-Amazon.com,6,Software Engineering Manager,320000,"Seattle, WA",18,5
-Amazon.com,L5,Product Manager,130000,"Seattle, WA",10,10
+Amazon,L6,Solution Architect,225000,"Washington, D.C.",15,3
+Amazon,L6,Software Engineer,250000,Seattle,8,6
+Amazon,L5,Data Scientist,300000,"Seattle, WA",4,1
+Amazon,L5,Software Engineer,235000,"Seattle, WA",5,3
+Amazon,5,Sales,225000,"Seattle, WA",4,4
+Amazon,L5,Product Manager,210000,"Seattle, WA",4,2
+Amazon,L6,Solution Architect,210000,"Seattle, WA",7,3
+Amazon,L4,Marketing,103000,"Seattle, WA",1,0
+Amazon,L4,Marketing,112000,"San Francisco, CA",5,5
+Amazon,L5,Software Engineer,250000,"San Francisco, CA",15,2
+Amazon,L4,Software Engineer,150000,"Providence, RI",1,1
+Amazon,L6,Solution Architect,340000,"Portland, OR",10,4
+Amazon,L5,Software Engineer,230000,Palo Alto,3,3
+Amazon,6,Solution Architect,250000,"New York, NY",12,3
+Amazon,L7,Solution Architect,425000,"New York, NY",15,1
+Amazon,L5,Solution Architect,212000,Los Angeles,15,1
+Amazon,L6,Solution Architect,416000,"Los Angeles, CA",10,4
+Amazon,L6,Solution Architect,250000,"Austin, TX",20,2
+Amazon,L4,Solution Architect,125000,"Austin, TX",0,0
+Amazon,6,Sales,300000,"Arlington, VA",13,1
+Amazon,L5,Product Manager,120000,Seattle,10,10
+Amazon,L5,Data Scientist,163000,Seattle,10,10
+Amazon,L5,Software Engineer,242000,"Seattle, WA",4,4
+Amazon,L6,Product Manager,200000,"Seattle, WA",3,5
+Amazon,L6,Software Engineer,392000,"Seattle, WA",20,5
+Amazon,L5,Technical Program Manager,180000,"Seattle, WA",7,0
+Amazon,6,Software Engineering Manager,320000,"Seattle, WA",18,5
+Amazon,L5,Product Manager,130000,"Seattle, WA",10,10
 Apple,L2,Hardware Engineer,200000,Texas City,1,0
 Apple,M1,Software Engineering Manager,372000,Sunnyvale,7,5
 Apple,ICT5,Software Engineer,560000,Sunnyvale,10,5
@@ -7043,7 +7043,7 @@ Apple,ICT4,Software Engineer,233000,Sunnyvale,10,1
 Apple,ICT3,Software Engineer,210000,Sunnyvale,5,1
 Apple,ICT 5,Software Engineer,280000,Sunnyvale,11,3
 Apple,ICT4,Software Engineer,205000,Sunnyvale,10,1
-apple,ict3,Software Engineer,200000,Sunnyvale,0,0
+Apple,ict3,Software Engineer,200000,Sunnyvale,0,0
 Apple,ICT3,Software Engineer,220000,Sunnyvale,2,0
 Apple,L5,Software Engineer,321000,Sunnyvale,14,5
 Apple,ICT3,Software Engineer,255000,Sunnyvale,2,2
@@ -7137,7 +7137,7 @@ Apple,ICT3,Data Scientist,228000,"Sunnyvale, CA",0,0
 Apple,M2,Software Engineering Manager,400000,"Sunnyvale, CA",15,9
 Apple,ICT4,Hardware Engineer,300000,"Sunnyvale, CA",10,1
 Apple,ICT3,Software Engineer,350000,"Sunnyvale, CA",2,2
-apple,ICT2,Hardware Engineer,173000,"Sunnyvale, CA",2,0
+Apple,ICT2,Hardware Engineer,173000,"Sunnyvale, CA",2,0
 Apple,ICT6,Solution Architect,572000,"Sunnyvale, CA",20,14
 Apple,ICT3,Software Engineer,176000,"Sunnyvale, CA",2,2
 Apple,IST1,Hardware Engineer,108000,"Sunnyvale, CA",5,2
@@ -7196,7 +7196,7 @@ Apple,ICT4,Software Engineer,300000,"Seattle, WA",6,2
 Apple,ICT4,Software Engineer,240000,"Seattle, WA",15,1
 Apple,ICT4,Software Engineer,320000,"Seattle, WA",4,4
 Apple,ICT3,Software Engineer,275000,"Seattle, WA",1,0
-apple,4,Software Engineer,300000,"Seattle, WA",3,3
+Apple,4,Software Engineer,300000,"Seattle, WA",3,3
 Apple,ICT4,Software Engineer,230000,"Seattle, WA",4,4
 Apple,ICT5,Software Engineer,470000,"Seattle, WA",10,3
 Apple,ICT4,Software Engineer,370000,"Seattle, WA",12,0
@@ -7304,7 +7304,7 @@ Apple,M1,Software Engineering Manager,385000,San Francisco,7,1
 Apple,ICT4,Software Engineer,320000,San Francisco,14,7
 Apple,ICT4,Software Engineer,300000,San Francisco,8,5
 Apple,ICT2,Software Engineer,185000,San Francisco,0,0
-apple,ICT2,Software Engineer,120000,San Francisco,1,1
+Apple,ICT2,Software Engineer,120000,San Francisco,1,1
 Apple,ICT3,Software Engineer,200000,San Francisco,5,3
 Apple,ICT3,Software Engineer,170000,San Francisco,2,2
 Apple,M1,Software Engineering Manager,500000,San Francisco,16,7
@@ -7385,7 +7385,7 @@ Apple,ICT4,Software Engineer,310000,"San Francisco, CA",8,0
 Apple,ICT3,Software Engineer,222000,San Diego,4,0
 Apple,ICT3,Software Engineer,240000,San Diego,6,0
 Apple,ICT3,Technical Program Manager,183000,San Diego,2,0
-apple,ict4,Software Engineer,332000,San Diego,9,0
+Apple,ict4,Software Engineer,332000,San Diego,9,0
 Apple,ICT3,Software Engineer,200000,San Diego,3,1
 Apple,ICT4,Software Engineer,343000,San Diego,26,1
 Apple,ICT4,Hardware Engineer,283000,San Diego,17,0
@@ -7397,7 +7397,7 @@ Apple,ICT3,Software Engineer,265000,"San Diego, CA",6,0
 Apple,ICT2,Software Engineer,157000,"San Diego, CA",1,0
 Apple,ICT2,Software Engineer,134000,"San Diego, CA",8,6
 Apple,ICT2,Software Engineer,158000,"San Diego, CA",0,0
-APPLE,M12,Product Designer,72000,"San Diego, CA",9,6
+Apple,M12,Product Designer,72000,"San Diego, CA",9,6
 Apple,Engineer,Hardware Engineer,198000,"San Diego, CA",9,0
 Apple,ICT5,Hardware Engineer,430000,"San Diego, CA",15,0
 Apple,M2,Software Engineering Manager,490000,"San Diego, CA",25,1
@@ -7456,7 +7456,7 @@ Apple,e3,Data Scientist,480000,"Los Angeles, CA",20,4
 Apple,M3,Marketing,535000,"Los Angeles, CA",15,0
 Apple,L2,Product Manager,144000,"Los Angeles, CA",7,0
 Apple,Individual Contributor 3,Marketing,138000,"Los Angeles, CA",7,1
-apple,Ict4,Software Engineer,222000,"Elk Grove, CA",15,4
+Apple,Ict4,Software Engineer,222000,"Elk Grove, CA",15,4
 Apple,ICT4,Software Engineer,210000,"Dallas, TX",9,0
 Apple,Ict3,Software Engineer,200000,Cupertino,3,2
 Apple,ICT2,Software Engineer,120000,Cupertino,5,2
@@ -7492,7 +7492,7 @@ Apple,M1,Software Engineering Manager,180000,Cupertino,6,2
 Apple,ICT3,Software Engineer,190000,Cupertino,0,0
 Apple,L3,Product Manager,210000,Cupertino,10,1
 Apple,L4,Software Engineer,275000,Cupertino,12,3
-apple,ICT3,Software Engineer,210000,Cupertino,7,1
+Apple,ICT3,Software Engineer,210000,Cupertino,7,1
 Apple,ICT4,Software Engineer,471000,Cupertino,8,5
 Apple,ICT4,Software Engineer,350000,Cupertino,18,4
 Apple,ICT4,Software Engineer,225000,Cupertino,19,1
@@ -7534,7 +7534,7 @@ Apple,ICT4,Data Scientist,322000,Cupertino,6,2
 Apple,ICT5,Software Engineer,450000,Cupertino,11,5
 Apple,M1,Software Engineering Manager,325000,Cupertino,4,4
 Apple,ICT4,Product Designer,247000,Cupertino,8,0
-apple,ICT4,Software Engineer,300000,Cupertino,6,2
+Apple,ICT4,Software Engineer,300000,Cupertino,6,2
 Apple,ICT4,Software Engineer,304000,Cupertino,15,2.5
 Apple,ICT4,Software Engineer,290000,Cupertino,4,2
 Apple,ICT4,Software Engineer,290000,Cupertino,4,2
@@ -7772,10 +7772,10 @@ Apple,ICT4,Software Engineer,330000,"Cupertino, CA",8,4
 Apple,ICT5,Software Engineer,354000,"Cupertino, CA",21,17
 Apple,M2,Software Engineering Manager,400000,"Cupertino, CA",10,4
 Apple,ICT3,Software Engineer,181000,"Cupertino, CA",3,2
-apple,ic4,Software Engineer,400000,"Cupertino, CA",14,4
+Apple,ic4,Software Engineer,400000,"Cupertino, CA",14,4
 Apple,ICT5,Software Engineer,550000,"Cupertino, CA",24,2
 Apple,M2,Software Engineering Manager,390000,"Cupertino, CA",13,9
-APPLE,ICT4,Software Engineer,354000,"Cupertino, CA",21,1
+Apple,ICT4,Software Engineer,354000,"Cupertino, CA",21,1
 Apple,M,Software Engineering Manager,500000,"Cupertino, CA",4,4
 Apple,ICT2,Software Engineer,130000,"Cupertino, CA",0,0
 Apple,IC3,Product Manager,180000,"Cupertino, CA",5,5
@@ -7889,7 +7889,7 @@ Apple,ICT4,Software Engineer,255000,"Cupertino, CA",15,0
 Apple,M2,Software Engineering Manager,450000,"Cupertino, CA",15,8
 Apple,ICT4,Software Engineer,320000,"Cupertino, CA",8,1
 Apple,ICT5,Hardware Engineer,230000,"Cupertino, CA",15,1
-apple,ICT5,Hardware Engineer,265000,"Cupertino, CA",15,1.5
+Apple,ICT5,Hardware Engineer,265000,"Cupertino, CA",15,1.5
 Apple,ICT3,Software Engineer,190000,"Cupertino, CA",3,1
 Apple,ICT4,Software Engineer,292000,"Cupertino, CA",9,6
 Apple,ICT4,Software Engineer,186000,"Cupertino, CA",6,4
@@ -7937,7 +7937,7 @@ Apple,ICT3,Hardware Engineer,218000,"Cupertino, CA",5,2
 Apple,ICT4,Software Engineer,320000,"Cupertino, CA",6,3
 Apple,ICT5,Hardware Engineer,390000,"Cupertino, CA",12,10
 Apple,ICT4,Software Engineer,360000,"Cupertino, CA",9,7
-apple,ICT5,Hardware Engineer,220000,"Cupertino, CA",20,0
+Apple,ICT5,Hardware Engineer,220000,"Cupertino, CA",20,0
 Apple,ICT5,Software Engineering Manager,387000,"Cupertino, CA",16,2
 Apple,ICT3,Hardware Engineer,170000,"Cupertino, CA",4,4
 Apple,M2,Hardware Engineer,600000,"Cupertino, CA",14,7
@@ -8246,7 +8246,7 @@ Apple,M1,Software Engineering Manager,375000,"Cupertino, CA",8,4
 Apple,ICT3,Hardware Engineer,250000,"Cupertino, CA",10,5
 Apple,ICT3,Software Engineer,180000,"Cupertino, CA",1,0
 Apple,M3,Software Engineering Manager,630000,"Cupertino, CA",24,5
-apple,3,Hardware Engineer,215000,"Cupertino, CA",8,4
+Apple,3,Hardware Engineer,215000,"Cupertino, CA",8,4
 Apple,ICT3,Product Designer,190000,"Cupertino, CA",7,3
 Apple,ICT3,Hardware Engineer,214000,"Cupertino, CA",12,2.5
 Apple,ICT3,Software Engineer,213000,"Cupertino, CA",3,2
@@ -8442,7 +8442,7 @@ Apple,ICT3,Mechanical Engineer,200000,"Cupertino, CA",6,4
 Apple,ICT4,Hardware Engineer,345000,"Cupertino, CA",18,2
 Apple,ICT4,Hardware Engineer,333000,"Cupertino, CA",19,3
 Apple,ICT3,Mechanical Engineer,200000,"Cupertino, CA",6,4
-apple,ICT4,Hardware Engineer,248000,"Cupertino, CA",10,1
+Apple,ICT4,Hardware Engineer,248000,"Cupertino, CA",10,1
 Apple,ICT4,Software Engineer,403000,"Cupertino, CA",8,3
 Apple,ICT4,Hardware Engineer,290000,"Cupertino, CA",6,4
 Apple,ICT5,Hardware Engineer,445000,"Cupertino, CA",14,6
@@ -8574,7 +8574,7 @@ Apple,ICT4,Data Scientist,358000,"Cupertino, CA",5,2
 Apple,ICT5,Mechanical Engineer,270000,"Cupertino, CA",24,5
 Apple,ICT3,Hardware Engineer,200000,"Cupertino, CA",4,0
 Apple,ICT5,Hardware Engineer,677000,"Cupertino, CA",10,8
-apple,L5,Software Engineer,200000,"Cupertino, CA",5,3
+Apple,L5,Software Engineer,200000,"Cupertino, CA",5,3
 Apple,IC5,Human Resources,350000,"Cupertino, CA",10,2
 Apple,L3,Technical Program Manager,270000,"Cupertino, CA",7,0
 Apple,ICT5,Software Engineer,456000,"Cupertino, CA",20,5
@@ -8647,7 +8647,7 @@ Apple,ICT4,Software Engineer,328000,"Cupertino, CA",8,7
 Apple,4,Hardware Engineer,307000,"Cupertino, CA",5,5
 Apple,ICT5,Software Engineering Manager,480000,"Cupertino, CA",5,0
 Apple,ICT4,Technical Program Manager,216000,"Cupertino, CA",17,0
-apple,4,Software Engineer,420000,"Cupertino, CA",8,0
+Apple,4,Software Engineer,420000,"Cupertino, CA",8,0
 Apple,ICT3,Software Engineer,198000,"Cupertino, CA",6,6
 Apple,ICT3,Technical Program Manager,210000,"Cupertino, CA",5,1
 Apple,ICT3,Mechanical Engineer,210000,"Cupertino, CA",1,0
@@ -8684,7 +8684,7 @@ Apple,ICT3,Hardware Engineer,186000,"Cupertino, CA",4,0
 Apple,ICT5,Technical Program Manager,340000,"Cupertino, CA",9,2
 Apple,ICT4,Product Manager,360000,"Cupertino, CA",5,1
 Apple,IC2,Software Engineer,171000,"Cupertino, CA",1,0
-apple,M2,Software Engineering Manager,440000,"Cupertino, CA",8,0
+Apple,M2,Software Engineering Manager,440000,"Cupertino, CA",8,0
 Apple,ICT4,Mechanical Engineer,315000,"Cupertino, CA",6,4
 Apple,ICT4,Technical Program Manager,255000,"Cupertino, CA",8,0
 Apple,ICT4,Software Engineer,344000,"Cupertino, CA",4,1
@@ -8929,16 +8929,16 @@ Apple,ICT5,Software Engineer,330000,"Austin, TX",15,0
 Apple,M2,Software Engineering Manager,340000,"Austin, TX",15,1
 Apple,ICT4,Software Engineer,298000,"Austin, TX",13,2
 Apple,ICT5,Software Engineer,330000,"Austin, TX",14,0
-Apple Inc.,IC4,Software Engineer,325000,"Sunnyvale, CA",14,5
-Apple Inc.,M3,Software Engineering Manager,555000,"Sunnyvale, CA",20,8
-Apple Inc.,ICT 5,Software Engineer,421000,"Sunnyvale, CA",12,5
-Apple Inc.,ICT4,Software Engineer,296000,"Cupertino, CA",6,6
-Apple Inc.,IC2,Software Engineer,165000,"Cupertino, CA",1,1
-Apple Inc.,L4,Data Scientist,300000,"Cupertino, CA",5,5
-Apple Inc.,ICT4,Hardware Engineer,290000,"Cupertino, CA",10,10
-Apple Inc.,ICT4,Software Engineer,280000,"Cupertino, CA",6,6
-Apple Inc.,IC4,Software Engineer,374000,"Cupertino, CA",16,9
-Apple Inc.,ICT4,Software Engineer,335000,"Cupertino, CA",12,5
+Apple,IC4,Software Engineer,325000,"Sunnyvale, CA",14,5
+Apple,M3,Software Engineering Manager,555000,"Sunnyvale, CA",20,8
+Apple,ICT 5,Software Engineer,421000,"Sunnyvale, CA",12,5
+Apple,ICT4,Software Engineer,296000,"Cupertino, CA",6,6
+Apple,IC2,Software Engineer,165000,"Cupertino, CA",1,1
+Apple,L4,Data Scientist,300000,"Cupertino, CA",5,5
+Apple,ICT4,Hardware Engineer,290000,"Cupertino, CA",10,10
+Apple,ICT4,Software Engineer,280000,"Cupertino, CA",6,6
+Apple,IC4,Software Engineer,374000,"Cupertino, CA",16,9
+Apple,ICT4,Software Engineer,335000,"Cupertino, CA",12,5
 Facebook,E3,Software Engineer,201000,"Washington, D.C.",0,0
 Facebook,E4,Software Engineer,200000,"Washington, D.C.",3,0
 Facebook,L5 Product Manager,Product Manager,305000,"Washington, D.C.",5,0
@@ -15464,11 +15464,11 @@ Google,L5,Software Engineer,380000,"Atlanta, GA",5,5
 Google,L5,Product Manager,259000,"Atlanta, GA",3,0
 Google,L6,Product Manager,378000,"Atlanta, GA",20,2
 Google,L3,Product Designer,60000,"Annandale, VA",1,1
-Google LLC,L4,Software Engineer,246000,"San Francisco, CA",3,2
-Google LLC,L4,Software Engineer,255000,"San Francisco, CA",4,4
-Google LLC,L5,Software Engineering Manager,375000,"New York, NY",16,6
-google llc,L5,Software Engineer,330000,"Mountain View, CA",7,5
-Google LLC,L5,Software Engineer,330000,"Mountain View, CA",9,3
+Google,L4,Software Engineer,246000,"San Francisco, CA",3,2
+Google,L4,Software Engineer,255000,"San Francisco, CA",4,4
+Google,L5,Software Engineering Manager,375000,"New York, NY",16,6
+Google,L5,Software Engineer,330000,"Mountain View, CA",7,5
+Google,L5,Software Engineer,330000,"Mountain View, CA",9,3
 Microsoft,Senior Consultant,Software Engineer,225000,"Washington, D.C.",15,7
 Microsoft,64,Sales,270000,"Washington, D.C.",20,4
 Microsoft,64,Solution Architect,256000,"Washington, D.C.",25,5
