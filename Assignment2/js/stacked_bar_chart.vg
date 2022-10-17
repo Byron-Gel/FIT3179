@@ -2,8 +2,54 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 250,
     "height": 350,
+    "title": "FAANG IT/Engineering Compensation by Position (2017-2021)",
     "data": {"url": "https://raw.githubusercontent.com/Byron-Gel/FIT3179/main/Assignment2/data/position_comp.csv"},
     "mark": "bar",
+    "params": [
+      {
+        "name": "Category_selection",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "Business Analyst",
+            "Data Scientist",
+            "Hardware Engineer",
+            "Human Resources",
+            "Marketing",
+            "Mechanical Engineer",
+            "Product Designer",
+            "Product Manager",
+            "Recruiter",
+            "Software Engineer",
+            "Software Engineering Manager",
+            "Solution Architect",
+            "Technical Program Manager"
+
+          ],
+          "labels": [
+            "Show All",
+            "Business Analyst",
+            "Data Scientist",
+            "Hardware Engineer",
+            "Human Resources",
+            "Marketing",
+            "Mechanical Engineer",
+            "Product Designer",
+            "Product Manager",
+            "Recruiter",
+            "Software Engineer",
+            "Software Engineering Manager",
+            "Solution Architect",
+            "Technical Program Manager"
+          ],
+          "name": "Job Title: "
+        }
+      }
+    ],
+    "transform": [
+      {"filter": "Category_selection == null || datum.Title == Category_selection"}        
+    ],
     "encoding": {
       "x": {
         "field": "Company",
@@ -22,7 +68,12 @@
           "domain": ["Business Analyst", "Data Scientist", "Hardware Engineer", "Human Resources", "Marketing", "Mechanical Engineer", "Product Designer", "Product Manager", "Recruiter", "Software Engineer", "Software Engineering Manager", "Solution Architect", "Technical Program Manager"]
         },
         "title": "Job Type"
-      }
+      },
+      "tooltip": [
+        {"field": "Company", "type": "nominal", "title": "Company"},
+        {"field": "Title", "type": "nominal", "title": "Job Title"},
+        {"field": "Compensation", "type": "quantitative", "format": ",",  "title": "Average Years of Experience"}    
+    ]
     }
   }
   

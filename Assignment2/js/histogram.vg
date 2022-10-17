@@ -1,0 +1,70 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "FAANG Experience vs Years at Company Compensation (2017-2021)",
+    "data": {"url": "https://raw.githubusercontent.com/Byron-Gel/FIT3179/main/Assignment2/data/avg_comp.csv"},
+    "params": [
+        {
+          "name": "Category_selection",
+          "bind": {
+            "input": "select",
+            "options": [
+              null,
+              "Facebook",
+              "Apple",
+              "Amazon",
+              "Microsoft",
+              "Google"
+            ],
+            "labels": [
+              "No Selection",
+              "Facebook",
+              "Apple",
+              "Amazon",
+              "Microsoft",
+              "Google"
+            ],
+            "name": "Company Selection: "
+          }
+        }
+    ],
+    "transform": [{
+      "filter": {"and": [
+        {"field": "yearsofexperience", "valid": true},
+        {"field": "yearsatcompany", "valid": true}
+      ]}
+    },
+    {"filter": "Category_selection == null || datum.company == Category_selection"}],
+    "mark": "rect",
+    "width": 350,
+    "height": 350,
+    "encoding": {
+      "x": {
+        "bin": {"maxbins":60},
+        "field": "yearsofexperience",
+        "type": "quantitative",
+        "title": "Years of Experience"
+      },
+      "y": {
+        "bin": {"maxbins": 40},
+        "field": "yearsatcompany",
+        "type": "quantitative",
+        "title": "Years at Company"
+      },
+      "color": {
+        "aggregate": "mean",
+        "field": "totalyearlycompensation",
+        "type": "quantitative",
+        "title": "Compensation"
+      },
+      "tooltip": [
+        {"aggregate": "mean", "field": "totalyearlycompensation", "type": "quantitative", "format": ",", "title": "Compensation"},
+        {"field": "yearsofexperience", "type": "quantitative", "format": ",",  "title": "Years of Experience"},
+        {"field": "yearsatcompany", "type": "quantitative", "format": ",",  "title": "Years of Company"}
+    ]
+    },
+    "config": {
+      "view": {
+        "stroke": "transparent"
+      }
+    }
+  }

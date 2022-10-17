@@ -1,0 +1,49 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A simple radial chart with embedded data.",
+    "data": {"url": "https://raw.githubusercontent.com/Byron-Gel/FIT3179/main/Assignment2/data/position_comp.csv"},
+    "width": 400,
+    "height": 400,
+    "params": [
+        {
+          "name": "Category_selection",
+          "bind": {
+            "input": "select",
+            "options": [
+              "Average",
+              "Facebook",
+              "Apple",
+              "Amazon",
+              "Microsoft",
+              "Google"
+            ],
+            "labels": [
+              "Average",
+              "Facebook",
+              "Apple",
+              "Amazon",
+              "Microsoft",
+              "Google"
+            ],
+            "name": "Company Selection: "
+          }
+        }
+    ],
+    "transform": [
+        {"filter": "datum.Company == Category_selection"}
+           
+    ],
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+    },{
+        "mark": {"type": "text", "radiusOffset": 10},
+        "encoding": {
+          "text": {"field": "Percentage", "type": "quantitative"}
+        }
+      }],
+    "encoding": {
+      "theta": {"field": "Percentage", "type": "quantitative", "stack": true},
+      "radius": {"field": "Compensation", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+      "color": {"field": "Title", "type": "nominal"}
+    }
+  }

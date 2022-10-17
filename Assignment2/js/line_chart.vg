@@ -1,13 +1,36 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 340,
-    "height": 400,
+    "height": 500,
+    "title": "IT/Engineering Career Growth (2017-2021)",
     "description": "Average Cmpensation at Different Career Stages",
     "data": {"url": "https://raw.githubusercontent.com/Byron-Gel/FIT3179/main/Assignment2/data/line_chart_data.csv"},
+    "params": [
+      {
+        "name": "comp_select",
+        "bind": {
+          "input": "select",
+          "options": [
+            null,
+            "FAANG",
+            "Other"
+          ],
+          "labels": [
+            "Show All",
+            "FAANG",
+            "Other"
+          ],
+          "name": "Category Selection: "
+        }
+      }
+    ],
+    "transform": [
+      {"filter": "comp_select == null || datum.Type == comp_select"}        
+  ],
     "encoding": {
         "x": {"field": "Category", "sort": ["Grad", "Early", "Mid", "Late"], "title": "Career Stage", "axis": {"labelAngle": 0}},
         "y": {"field": "Compensation", "type": "quantitative", "title": "Compensation"}
-    },
+    }, 
     "layer": [
       {
         "mark": {"type": "line", "interpolate": "natural"},
@@ -24,7 +47,7 @@
             "tooltip": [
               {"field": "company", "type": "nominal", "title": "Company"},
               {"field": "Category", "type": "nominal", "title": "Career Stage"},
-              {"field": "Compensation", "type": "quantitative", "format": ".0f", "title": "Average Compensation"} ]}
+              {"field": "Compensation", "type": "quantitative", "format": ",", "title": "Average Compensation"} ]}
       },
       {
           "mark": {

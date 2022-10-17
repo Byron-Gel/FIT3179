@@ -1,0 +1,80 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Plot showing a 30 day rolling average with raw values in the background.",
+    "width": 400,
+    "height": 150,
+    "title": "FAANG Change in Compensation (2017-2021)",
+    "data": {"url": "https://raw.githubusercontent.com/Byron-Gel/FIT3179/main/Assignment2/data/avg_comp.csv"},
+    "params": [
+        {
+          "name": "Category_selection",
+          "bind": {
+            "input": "select",
+            "options": [
+              null,
+              "Facebook",
+              "Apple",
+              "Amazon",
+              "Microsoft",
+              "Google"
+            ],
+            "labels": [
+              "No Selection",
+              "Facebook",
+              "Apple",
+              "Amazon",
+              "Microsoft",
+              "Google"
+            ],
+            "name": "Company Selection: "
+          }
+        }
+    ],
+    "transform": [{"filter": "Category_selection == null || datum.company == Category_selection"},
+    {"window": [
+        {
+          "field": "totalyearlycompensation",
+          "op": "mean",
+          "as": "rolling_mean"
+        }
+      ],
+      "frame": [-100, 100]
+    }],
+    "encoding": {
+        "x": {
+          "field": "time","type": "temporal", "title": "Date"},
+        "y": {
+          "field": "totalyearlycompensation",
+          "type": "quantitative",
+          "title": "Compensation",
+          "scale": {"type": "log"}
+        },
+        "tooltip": [
+            {"field": "company", "type": "nominal", "title": "Company"},
+            {"field": "totalyearlycompensation", "type": "quantitative", "format": ",", "title": "Compensation"},
+            {"field": "yearsofexperience", "type": "quantitative", "format": ",",  "title": "Years of Experience"},
+            {"field": "yearsatcompany", "type": "quantitative", "format": ",",  "title": "Years of Company"}
+        ]
+    },
+    "layer": [
+        {
+          "mark": {
+            "type": "point",
+            "filled": true,
+            "opacity": 0.3
+          }        
+        },
+        {
+          "mark": {
+            "type": "line",
+            "color": "firebrick"
+          },
+          "transform": [
+            {
+              "loess": "totalyearlycompensation",
+              "on": "time"
+            }
+          ]
+        }
+      ]
+  }

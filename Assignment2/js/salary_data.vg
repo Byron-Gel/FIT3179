@@ -47,6 +47,34 @@
 
             }
 
+        },
+
+        {
+            "mark": {
+            "type": "text",
+            "align": "left",
+            "baseline": "middle",
+            "dx": 5,
+            "dy": 1,
+            "fontSize": 8,
+            "fontStyle": "italic"
+            },
+            "projection": {
+                "type": "albersUsa"
+              },
+            "encoding": {
+                "longitude": {"field": "longitude", "type": "quantitative"},
+                "latitude": {"field": "latitude", "type": "quantitative"},
+                "text": {"field": "city", "type": "nominal"},
+                "color": {"value": "black"},
+                "opacity": {
+                    "condition": {
+                        "test": "(datum['city'] == 'San Francisco' || datum['city'] == 'Los Angeles' || datum['city'] == 'New York'|| datum['city'] == 'Seattle')",
+                        "value": 1
+                    },
+                    "value": 0
+                }
+            }
         }
     ]
 }
